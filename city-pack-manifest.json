@@ -1,0 +1,3576 @@
+{
+ "schema": 1,
+ "packId": "city-game",
+ "contentVersion": "0107b4804ebfd33a",
+ "sourceAndroidVersion": "105",
+ "assetRoots": {
+  "city/": "android/android-app/city_assets/src/main/assets",
+  "adhan/": "android/android-app/app/src/main/assets"
+ },
+ "packRoots": [
+  "city/",
+  "adhan/"
+ ],
+ "baseAppOnly": [
+  "adhan/fajr_madina_masmaa.mp3"
+ ],
+ "hosting": {
+  "kind": "github-release",
+  "repository": "taneerstudio/hifz-reader-stadtspiel",
+  "tag": "city-pack-0107b4804ebfd33a"
+ },
+ "fileCount": 710,
+ "totalBytes": 616166273,
+ "files": [
+  {
+   "path": "adhan/aaqib_atcovi.mp3",
+   "bytes": 1448294,
+   "sha256": "0faa59e2028bbb2f60a670b53ec89ffcf628f3c195b43fb41d9bdbc99000c1b3"
+  },
+  {
+   "path": "adhan/amman_masmaa.mp3",
+   "bytes": 4065951,
+   "sha256": "8b2e37edbf40012499cb3ea1c946a18bb6df7e09c566acbfaad690e08c4ffd9c"
+  },
+  {
+   "path": "adhan/azan_andrewler.ogg",
+   "bytes": 1473809,
+   "sha256": "2163ceafb8a05064a5ea5e1e0a7fac5fff958a21fcf830844d557d496b9b23c3"
+  },
+  {
+   "path": "adhan/beautiful_adam_synagda.ogg",
+   "bytes": 1229032,
+   "sha256": "35fe06b08fe80505c550c33fed8a783fa9901ddc81ac884958b4be048f5b2a79"
+  },
+  {
+   "path": "adhan/hassan_ii.ogg",
+   "bytes": 1835254,
+   "sha256": "501b412ab81a94c4dc4b5a0762775450159e34b96c0c80576027f62abdd39eae"
+  },
+  {
+   "path": "city/alexandria_1.glb",
+   "bytes": 237360,
+   "sha256": "91c0d470590d1a6c6714463e280e8bd12c40d1f823e8767cd81ea391d01ca6a0"
+  },
+  {
+   "path": "city/alexandria_1.png",
+   "bytes": 33139,
+   "sha256": "fc9bddc25691c26581fb422c02ed656719a28ed55b8e6a959de42bc2f5017f5d"
+  },
+  {
+   "path": "city/ark_nuh_1.glb",
+   "bytes": 941212,
+   "sha256": "07c78693c2e4944e9e10daea1bcf7d8824feab1da3165988924e1fb62ca1eb2d"
+  },
+  {
+   "path": "city/ark_nuh_1.png",
+   "bytes": 22121,
+   "sha256": "7bd972a740c4a508f22b86be096d162e8945dcb0fb62b81d3c2c84bfe26bb6f0"
+  },
+  {
+   "path": "city/car_0.glb",
+   "bytes": 48984,
+   "sha256": "449f3148b14ee4dd99f3a53c75fe98e3855446996b0c0432e4dee9d8aebf9ecc"
+  },
+  {
+   "path": "city/car_1.glb",
+   "bytes": 48984,
+   "sha256": "d916b8da920bf86f02f341c612daacd8d0b90c8b5f887d1f2b3a45c73c0d1068"
+  },
+  {
+   "path": "city/car_2.glb",
+   "bytes": 48984,
+   "sha256": "c419d0263ed0c7b39bfa583206c0f4bd08b144e35100eb1442c4296aa3ca704e"
+  },
+  {
+   "path": "city/cheops_1.glb",
+   "bytes": 61180,
+   "sha256": "ae56508fefa1b32f711d07bf02c49321b808b62600be9e7f2bfd696d6c9ace05"
+  },
+  {
+   "path": "city/cheops_1.png",
+   "bytes": 35015,
+   "sha256": "461873a8ef1ec7074ea7e0048e3a31f4e4a923b00341ebdcc73781a26c33d455"
+  },
+  {
+   "path": "city/chephren_1.glb",
+   "bytes": 49344,
+   "sha256": "79b54224898f979577b53b971b963404e1f8dc964bcdd4e3a782711152b91851"
+  },
+  {
+   "path": "city/chephren_1.png",
+   "bytes": 33090,
+   "sha256": "79dbdd8f0fc8f44b2e797bf95d46c7da45507b65306fb642634c3ab800628da9"
+  },
+  {
+   "path": "city/claude/baeume/baeume_uebersicht.png",
+   "bytes": 1054905,
+   "sha256": "b723977518796f76efe8c68f15b6036b6e5d7a102752466159ca0815ebb2ebc2"
+  },
+  {
+   "path": "city/claude/baeume/baum_feige.glb",
+   "bytes": 595652,
+   "sha256": "b634a3f46e789b8d887776063c5290a169821a4d26c9531eecc62e9c9471ea5a"
+  },
+  {
+   "path": "city/claude/baeume/baum_feige.png",
+   "bytes": 88068,
+   "sha256": "aa6662c14ba67b7ef591595268be7d9c32f6d3cc4a4a3c4eb3b6c69de95ad2de"
+  },
+  {
+   "path": "city/claude/baeume/baum_feige_lite.glb",
+   "bytes": 360384,
+   "sha256": "f5c56e118f1618e0b0375123cb9cb805e170adf58032d5e38f2d698e7e83f51a"
+  },
+  {
+   "path": "city/claude/baeume/baum_granatapfel.glb",
+   "bytes": 699176,
+   "sha256": "fd7d2ed57e6d303faf1ce979756f3434278e505e43135cfad7dc0fedf31b01c6"
+  },
+  {
+   "path": "city/claude/baeume/baum_granatapfel.png",
+   "bytes": 75337,
+   "sha256": "1e515b78d9cc1fd6e5356ad2cc175042e658294d11c1b7da3859f8048b0d5fb1"
+  },
+  {
+   "path": "city/claude/baeume/baum_granatapfel_lite.glb",
+   "bytes": 345036,
+   "sha256": "7324b33ef40dddcf514223140c11b7fcc2bb4bfab22ce8dee3fec8a463466446"
+  },
+  {
+   "path": "city/claude/baeume/baum_judasbaum.glb",
+   "bytes": 1425628,
+   "sha256": "32dffbd9e0387424e35fce9a8a259d0815e8fd4b18dc679728641a245dcf4add"
+  },
+  {
+   "path": "city/claude/baeume/baum_judasbaum.png",
+   "bytes": 88569,
+   "sha256": "b6460fb7dd54ceb8dfe7366f49654e0692f5de09898685f27406103a37aed273"
+  },
+  {
+   "path": "city/claude/baeume/baum_judasbaum_lite.glb",
+   "bytes": 724524,
+   "sha256": "5fb24ac96936f838041f4cb290d7606b5bf197788a6b7ca0cca9b07a38a661b8"
+  },
+  {
+   "path": "city/claude/baeume/baum_olive.glb",
+   "bytes": 650852,
+   "sha256": "03bb42c1d54f084f04fd31766fef3a625d2f676102c630d09229690a1024f2fa"
+  },
+  {
+   "path": "city/claude/baeume/baum_olive.png",
+   "bytes": 91151,
+   "sha256": "cec917eeed9803ba319b6099b7bff2c2a1568ee27616bc8e453291f197cdb933"
+  },
+  {
+   "path": "city/claude/baeume/baum_olive_lite.glb",
+   "bytes": 377712,
+   "sha256": "026ecf7cd775f71a6a24fd7f874a5bad52de395d534cf1bccb9b66f49df32ef0"
+  },
+  {
+   "path": "city/claude/baeume/baum_pinie.glb",
+   "bytes": 672856,
+   "sha256": "9ec6196b2d48ed1b592c9b7daf3b75225e54b49c184a74ab7b2a569c3efdab0b"
+  },
+  {
+   "path": "city/claude/baeume/baum_pinie.png",
+   "bytes": 85324,
+   "sha256": "6de964e01975bcbf2a010d3c002eded3543a7a54771076e7d068c7e117d21967"
+  },
+  {
+   "path": "city/claude/baeume/baum_pinie_lite.glb",
+   "bytes": 340172,
+   "sha256": "e4b46cc11422a2986757308a614d5db6e83b53eb01bafcfd0b8068b6c3984b0a"
+  },
+  {
+   "path": "city/claude/baeume/baum_platane.glb",
+   "bytes": 861284,
+   "sha256": "6b1eb24e08b759e0e669f3201622ca24d85274b3cd7d125c4fbb44ca6f35ffcb"
+  },
+  {
+   "path": "city/claude/baeume/baum_platane.png",
+   "bytes": 106188,
+   "sha256": "59ed42c3b54a4556e0d1b749d862e3f5dd860d85807046ef1d1e757f03b4618a"
+  },
+  {
+   "path": "city/claude/baeume/baum_platane_lite.glb",
+   "bytes": 336796,
+   "sha256": "a8d6d6524e6a06269e1a3a88975ae30a5c4fc125f20d1e8bf0b5fe32b170b74e"
+  },
+  {
+   "path": "city/claude/baeume/baum_trauerweide.glb",
+   "bytes": 2790852,
+   "sha256": "f423a1bba519f728541efe29f9655dacc4c7e9478dbfd1ba04a97de99df107e9"
+  },
+  {
+   "path": "city/claude/baeume/baum_trauerweide.png",
+   "bytes": 108135,
+   "sha256": "01974ddffae39e736111e5db4518ddb7093019dce9e5da138864dc29e0ded1bc"
+  },
+  {
+   "path": "city/claude/baeume/baum_trauerweide_lite.glb",
+   "bytes": 1310344,
+   "sha256": "bdb95fb3eab142e9243d334a549d66a7e33aba84ba12b579f5e5a1a398008008"
+  },
+  {
+   "path": "city/claude/baeume/baum_zypressen.glb",
+   "bytes": 1407720,
+   "sha256": "36d0ba7d47b78cefd3db02122b938fa7b83dedb69ee61ab7234a78a3de6b77b9"
+  },
+  {
+   "path": "city/claude/baeume/baum_zypressen.png",
+   "bytes": 73258,
+   "sha256": "73a3047ea7ce6a1eb7f7c2ede7dced7d4952704d2438dbfb2d165a468229d148"
+  },
+  {
+   "path": "city/claude/baeume/baum_zypressen_lite.glb",
+   "bytes": 1170516,
+   "sha256": "e7106e5b766276422f4e25db17737831c3916b8c1dbc9314d00e84d931640bfa"
+  },
+  {
+   "path": "city/claude/baeume/spielansicht_mittel.png",
+   "bytes": 1781612,
+   "sha256": "e24c692db7a28edeb4d0f03776de9af02d3ac9e99f64bf772115e487ac72682b"
+  },
+  {
+   "path": "city/claude/baeume/spielansicht_nah_judasbaum.png",
+   "bytes": 1263609,
+   "sha256": "880d058293c6906884c5c4aa67ad03a41e23c8eb368575c3ba54a4473fb4fb4d"
+  },
+  {
+   "path": "city/claude/baeume/spielansicht_nah_olive.png",
+   "bytes": 1155160,
+   "sha256": "bb7bc96f38e979b5c4473aec33dac85ad37864d07d1a9c1856a45680a8ab748f"
+  },
+  {
+   "path": "city/claude/baeume/spielansicht_nah_platane.png",
+   "bytes": 1231312,
+   "sha256": "db559d3096856cd2a8dda3840259beaaa7176ea1d1f73fe68a4d0ebefabb36b8"
+  },
+  {
+   "path": "city/claude/baeume/spielansicht_nah_zypressen.png",
+   "bytes": 1158391,
+   "sha256": "025e7993a5d5645f6e844507de93d9b20f0c8041b5d4d10f3c0f8dd972ed8826"
+  },
+  {
+   "path": "city/claude/baeume/spielansicht_start.png",
+   "bytes": 1037133,
+   "sha256": "940814be482dc5be0e26d4b70bd17610f95383a046e026d5815b228c74020102"
+  },
+  {
+   "path": "city/claude/baukasten/basar_1.glb",
+   "bytes": 310032,
+   "sha256": "85782697f5ab5ec1c08182c35179c14f871ce62f0cf1117b7bb8080d96d07786"
+  },
+  {
+   "path": "city/claude/baukasten/basar_1.png",
+   "bytes": 80042,
+   "sha256": "554b2105f79a2be91f57d7eb2e8764a9ad57d12218f072d23d0536a7328782be"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask0.glb",
+   "bytes": 310032,
+   "sha256": "85782697f5ab5ec1c08182c35179c14f871ce62f0cf1117b7bb8080d96d07786"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask1.glb",
+   "bytes": 310448,
+   "sha256": "4a9fbb895081207aab333ba3ad00b07f25f27fa57cb21a1d967dfe9462ccf78a"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask10.glb",
+   "bytes": 312800,
+   "sha256": "095c4f71b3472fb68305eb3fc69d96eeab854c6bf75b68b58157f7f089be95e9"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask11.glb",
+   "bytes": 257260,
+   "sha256": "70d98693d27c7a7aa94d07538d9ae4eb01444371c7befa8a2f2965ce3d1bde00"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask12.glb",
+   "bytes": 320840,
+   "sha256": "e946388c8b785aa70c3e24cba4890a9a1729cc90dbd0484c86d656c4ae7e1a33"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask13.glb",
+   "bytes": 313036,
+   "sha256": "94236ec65b9ec5b6daaad985bab1df2573315201409d93d52dc0c2de67b35038"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask14.glb",
+   "bytes": 355496,
+   "sha256": "d41928e1839a6e9b4a22ae9a6f09bfbb8e3e42251b26cdb503b5e87f750e3bb7"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask15.glb",
+   "bytes": 299952,
+   "sha256": "7a0fa803703168f0bc12813890daf10efe29a3d982ecdc1b38bf2af6cba8672f"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask2.glb",
+   "bytes": 332988,
+   "sha256": "9f290d13a7c093788cd63fbe280568fad4a45d1dfe41ea84deef39b180e8e533"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask3.glb",
+   "bytes": 310684,
+   "sha256": "823133044904405a41858f1e46799e9b50680b110c8790017e72f5389e032f1b"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask4.glb",
+   "bytes": 373908,
+   "sha256": "72f887f85a1a63091187f8fd91ad88c674165bb5687cae4125e18ec1a8b9d2ca"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask5.glb",
+   "bytes": 349772,
+   "sha256": "41bfd23286a4d515e6c2bbde9ba6d4e33ba4ffbd5f136fb9d76326f54e283cdf"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask6.glb",
+   "bytes": 307340,
+   "sha256": "d5416cfb50d809e5e1b46e3835ecdbf609266550daddb5f902f6bef7df64edb2"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask7.glb",
+   "bytes": 336688,
+   "sha256": "3b03201c616e2721a3418ff4e1a2e81eea4202e9eb4aeba5f28781188191c88c"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask8.glb",
+   "bytes": 286608,
+   "sha256": "a59d96818dc89909890cad65d224d3b8b9e155db645a307e05de606f0f29e93a"
+  },
+  {
+   "path": "city/claude/baukasten/basar_mask9.glb",
+   "bytes": 307336,
+   "sha256": "db8bf8cff1070e9a75daecb1f9e39fb9bc90149ccaf649d21d381ec44052756e"
+  },
+  {
+   "path": "city/claude/baukasten/bruecke_bach_mask10.glb",
+   "bytes": 347684,
+   "sha256": "104b6dd93b2bbbfb43328ab9bb9fa90a8b51213a179865b7ad4fd9af555d7ab9"
+  },
+  {
+   "path": "city/claude/baukasten/bruecke_bach_mask10.png",
+   "bytes": 85314,
+   "sha256": "1ad11f45ab2ca1ec737917482d066b645370e5d5d9ae9df76197214958d2768f"
+  },
+  {
+   "path": "city/claude/baukasten/bruecke_bach_mask5.glb",
+   "bytes": 338200,
+   "sha256": "b75c8e532ea8e8476b4da96db0a4be64727384964fd88941e61569621f3b5cc7"
+  },
+  {
+   "path": "city/claude/baukasten/bruecke_bach_mask5.png",
+   "bytes": 86150,
+   "sha256": "3159e452338ee53759d1a9a255d8285ce9212dd144fcf35c0848167cb6e6bbd4"
+  },
+  {
+   "path": "city/claude/baukasten/bruecke_kanal_mask10.glb",
+   "bytes": 340072,
+   "sha256": "f55439779f0c13a5350544b1dd3dd8a81107f8c817ad234b60d1785dd2827117"
+  },
+  {
+   "path": "city/claude/baukasten/bruecke_kanal_mask10.png",
+   "bytes": 65564,
+   "sha256": "58c907aab707f71848b476f1984c062c412d1ba97142e8598e3ae9489ab68c52"
+  },
+  {
+   "path": "city/claude/baukasten/bruecke_kanal_mask5.glb",
+   "bytes": 354104,
+   "sha256": "69bb1260797e117f43beb03637dfbfeb1f05063090664209c79f549963523cf0"
+  },
+  {
+   "path": "city/claude/baukasten/bruecke_kanal_mask5.png",
+   "bytes": 65872,
+   "sha256": "44d4cc2b958ac5e363e61655fe3f5fa0bc43b7f3dffd5fa2290863ce13b887c3"
+  },
+  {
+   "path": "city/claude/baukasten/furt_bach_mask10.glb",
+   "bytes": 280084,
+   "sha256": "a283e96f572e705585d38f84122cedf03704568ad771e6e28615a259a32dd2a4"
+  },
+  {
+   "path": "city/claude/baukasten/furt_bach_mask10.png",
+   "bytes": 79598,
+   "sha256": "6d250f5d405fbb2c8d067b322160f93583e08ed88a769ac6d6c0d2353b9d74ed"
+  },
+  {
+   "path": "city/claude/baukasten/furt_bach_mask5.glb",
+   "bytes": 275736,
+   "sha256": "23e27536421778173c55e9a78e2f3a168b18728dfb364807a6fcf281dff1d8b9"
+  },
+  {
+   "path": "city/claude/baukasten/furt_bach_mask5.png",
+   "bytes": 80968,
+   "sha256": "412a1c2f1c889a1ecee253ea6782f11dc32741f26ecbed85e373aa429ef87bfa"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_1.glb",
+   "bytes": 12276,
+   "sha256": "d433f4faf98f3a2a028b3d3b333c27c5bed70393d279f6bece71d8f97f231278"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_1.png",
+   "bytes": 27599,
+   "sha256": "018b594f72c70dd0c8a2563957cd34568402535b3430976134e3c8c4bc32982e"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask0.glb",
+   "bytes": 12276,
+   "sha256": "d433f4faf98f3a2a028b3d3b333c27c5bed70393d279f6bece71d8f97f231278"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask1.glb",
+   "bytes": 21384,
+   "sha256": "2ef18930a8cf19e5463ada089c8fa919504ab4d08cc668fd27fd10329621627c"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask10.glb",
+   "bytes": 57856,
+   "sha256": "6bf38b2a76a0bba0cb58b76f40dab52dd4cd7c2f9ec9070f3a09e5dae96f2692"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask11.glb",
+   "bytes": 61680,
+   "sha256": "b56594b1dc437c336619160cbcacbb4029077457d2b60a428698af38528fd930"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask12.glb",
+   "bytes": 50656,
+   "sha256": "13cb528bfba566b7cd0a4ca8f0a8d18512d7033a0afb0c4722eb9d2274dd3fca"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask13.glb",
+   "bytes": 89040,
+   "sha256": "c2a836dce74b86c83585da37804ad3e75fe9dcea10949cc7d76ddb1771723e54"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask14.glb",
+   "bytes": 107280,
+   "sha256": "8daf3227767e7896b5702baeccde37e3087ccde8b95f26c7ba04c4a587f82669"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask15.glb",
+   "bytes": 111108,
+   "sha256": "eb0a7ff7c44bb11e8deaa70daf444db51d54e748c6ba1e49fae2bffcfc1faa6a"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask2.glb",
+   "bytes": 30504,
+   "sha256": "af0f99a8f9fe6d4bdfa078f146b351628bb47c32de8e1449c793da220dd26806"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask3.glb",
+   "bytes": 32408,
+   "sha256": "3ded1a260b8bd745ec9016c9ed55beb9d3d81cc32f2c1fdab2b3ff5d40d485d7"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask4.glb",
+   "bytes": 21384,
+   "sha256": "0a30e505da2e03a73b055fb760cf7fc5cfae01fab42a341a33eb913d7b190918"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask5.glb",
+   "bytes": 48736,
+   "sha256": "b6a18939a42fc15c3e3ae49ae53d0d38296d2c8061c8e8039441d7a55178c94d"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask6.glb",
+   "bytes": 59776,
+   "sha256": "968320ff4b52f5d4d967b7d59349c2748188d38a694fa710b65a1def2b029fe0"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask7.glb",
+   "bytes": 70800,
+   "sha256": "a5e32d15970c2266e40344bc8940a136506a66f0674da4765a0c1134e5ad9898"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask8.glb",
+   "bytes": 12260,
+   "sha256": "04a91c4b4a41415195763ae95fedf6afa5913711d26e092a49d1879ddf7f75a4"
+  },
+  {
+   "path": "city/claude/baukasten/gartenmauer_mask9.glb",
+   "bytes": 41536,
+   "sha256": "156555343a310f58a6ac320cf02c5451be6d37957a58d30108637a4ae22050a5"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_1.glb",
+   "bytes": 15432,
+   "sha256": "24c4f1aa8d62c1895cfcb00cdb801dab0b04bf441b81e2729948c5438a9430e5"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_1.png",
+   "bytes": 33001,
+   "sha256": "23f0ef0f3606fb8d8ea45dd0532995b7c23787a8e7a354537703a0dc61593002"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask0.glb",
+   "bytes": 15432,
+   "sha256": "24c4f1aa8d62c1895cfcb00cdb801dab0b04bf441b81e2729948c5438a9430e5"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask1.glb",
+   "bytes": 29976,
+   "sha256": "8f2afc965218b483c6fe04a6fd5914766e254814ec3633ceca618561ef5cc251"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask10.glb",
+   "bytes": 49216,
+   "sha256": "9fecedfe0cf58e83f3daf2a87a033611c0df9a74f018e46b81877979b8b900a2"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask11.glb",
+   "bytes": 69492,
+   "sha256": "a7aec5caabcbd244bdab8614e2755d4d44434bb7796cd78258785d982923b789"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask12.glb",
+   "bytes": 49648,
+   "sha256": "7fea88c02ab4d3f0fe1be388fb6af468050fade17a9e937ee27872e352c6bd75"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask13.glb",
+   "bytes": 69528,
+   "sha256": "4d96738da4b4b197d8030ef82698cdb93f1d4e76358c500d7b21696db420ba0b"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask14.glb",
+   "bytes": 69636,
+   "sha256": "1ea501ccf20575259efe1203f3f714d06b9f867f59613924544aed2caece1841"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask15.glb",
+   "bytes": 89912,
+   "sha256": "e4144c6af43554847f681a7a32a37093d280fca9061441376355456933e998ba"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask2.glb",
+   "bytes": 30012,
+   "sha256": "fcdfdb74b0d73de8ae912d9e0f6511b1a35e5565c3abbcc7880be67451aafbbc"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask3.glb",
+   "bytes": 49792,
+   "sha256": "d461a3e9091a7d3dcf669bed227e8a869bad84b47f34dfbf4490abd050718e16"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask4.glb",
+   "bytes": 29904,
+   "sha256": "c63a3bf5040a5b45907d4d8f0c95fa85a45cefc477a57ea9ce7d56359244d3d4"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask5.glb",
+   "bytes": 49288,
+   "sha256": "1becbdc6e7be8007e12f8cc88b6c5e00d92fc8b7c3b7e816f2f4c9bef6737417"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask6.glb",
+   "bytes": 49900,
+   "sha256": "a0ce8f8b1a98731e7ecdb94a38e17f4be86c4e4ac55dc76e29bc2d34e8343dc0"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask7.glb",
+   "bytes": 69672,
+   "sha256": "c086ff78d373e3748214ba72ebe6b0107cb8ee7b72653c7b9ead2b686a39e045"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask8.glb",
+   "bytes": 29796,
+   "sha256": "48d73084ee31a0514ce823ddb5d163a5d916b5824d70c44364bad9d71e3dc33b"
+  },
+  {
+   "path": "city/claude/baukasten/hecke_mask9.glb",
+   "bytes": 49684,
+   "sha256": "283e1d357194a8645f89aa47bd8dd2f90d35f0b82f74fc129f22d43f753c1864"
+  },
+  {
+   "path": "city/claude/baukasten/revak_1.glb",
+   "bytes": 202032,
+   "sha256": "585b05b773207b582a5ed10a5e1495943cb53a98847fca6eeec5be17846fdf9e"
+  },
+  {
+   "path": "city/claude/baukasten/revak_1.png",
+   "bytes": 64253,
+   "sha256": "428f0b31d456a8b1692ad1cc8ab6df13b7bf16c0c7c179956141c7df6cf3e99a"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask0.glb",
+   "bytes": 202032,
+   "sha256": "585b05b773207b582a5ed10a5e1495943cb53a98847fca6eeec5be17846fdf9e"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask1.glb",
+   "bytes": 252956,
+   "sha256": "bdfddc9a5c39e67d881206a03093a163945969deee2540299d8e41fcf8cf3528"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask10.glb",
+   "bytes": 301996,
+   "sha256": "6971b2244da4d575dc017c6af23ebda5419f550f19882551fbe089a6e7e3e630"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask11.glb",
+   "bytes": 352000,
+   "sha256": "73675b535a41c84fdd9e36dfc537f2b797361120be82c716d549ecf26c112f88"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask12.glb",
+   "bytes": 302476,
+   "sha256": "8aa234a05fbd20043db45394ca42cc197b5c3b83e7c1308fd6316884e51ab289"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask13.glb",
+   "bytes": 352000,
+   "sha256": "13abe7b85530e7533cfb5026df999a266c815888e947f9a8112af1736fdf7b23"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask14.glb",
+   "bytes": 352000,
+   "sha256": "3a6d7ec112d1ed26f7130825e0ac5725a10741848c729b741fab88a1dadee382"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask15.glb",
+   "bytes": 402004,
+   "sha256": "9bdc29afbcdd5b4f43fda2be352d50a89fa0c8e6b8dea236e04bb56f4116a8d9"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask2.glb",
+   "bytes": 252020,
+   "sha256": "5ad18ddb07710b786ae160bb1ea820332adda95b9f5d463899be66a3c60fae0d"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask3.glb",
+   "bytes": 302476,
+   "sha256": "6ae3edbff74751c4f586486587834e38c90f09165fa2291223cc5abef77fc72b"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask4.glb",
+   "bytes": 252956,
+   "sha256": "eaf9f8dc8c8411e0f10008a058034711ca7e79f19f45dcaa92c13fdc7739750f"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask5.glb",
+   "bytes": 301996,
+   "sha256": "be721acdc0b682d8d11136ad23562e8b36b67e61ee0978801e83eb3e2ee9134d"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask6.glb",
+   "bytes": 302476,
+   "sha256": "cb0250083e901d97b85ba7e0b2c3886b31fdcf7305b4f0ff6535bd38ae7c7b73"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask7.glb",
+   "bytes": 352000,
+   "sha256": "d563f6a029ba20f32c9e99655a935752cd397440161cb9649f034407bf4367ad"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask8.glb",
+   "bytes": 252020,
+   "sha256": "3f178cd7a11e8bc85bac4a441edbf2f4ed3a16b6c6ab95291e3c4fe2fa2e16b4"
+  },
+  {
+   "path": "city/claude/baukasten/revak_mask9.glb",
+   "bytes": 302476,
+   "sha256": "9582e27f6ffefe012465a1f42835737a17528ac1ba25f8e257d4246b188eee4d"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_1.glb",
+   "bytes": 83244,
+   "sha256": "f4222f1be357350a2bd55bdccdd285b4ab475655e66a62c13f2fff9641c1dc1a"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_1.png",
+   "bytes": 75726,
+   "sha256": "b1bdd2329d3b1fc59193eedbe41b2da05e0deb40f6203763bc86d0bfce1d6929"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask0.glb",
+   "bytes": 83244,
+   "sha256": "f4222f1be357350a2bd55bdccdd285b4ab475655e66a62c13f2fff9641c1dc1a"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask1.glb",
+   "bytes": 89484,
+   "sha256": "bd41a4f6b669d029a29f165c895e9e1e33084ce4e0159aac6ff687eb879b175a"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask10.glb",
+   "bytes": 38892,
+   "sha256": "50c72009e76751f79ed9e1f253b9467ec9b75603eaead9a15fc8dd8fc941d0fa"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask11.glb",
+   "bytes": 108656,
+   "sha256": "62a056c978e305eaee5a207d3d73864cc1d1a0b9da50b7bccac7084a1b070fdf"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask12.glb",
+   "bytes": 99072,
+   "sha256": "4bba8de061105779d4a51f8327d8bc07f15ff5a7f76c2f396a94b8eb18392bbf"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask13.glb",
+   "bytes": 108672,
+   "sha256": "e38a698a3d422f95199de50f4455ef65a99fb3edabaea1334845379353111cda"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask14.glb",
+   "bytes": 108656,
+   "sha256": "80c4d3183f9164813e32a53760d13c29adf4274578674b234ca289429179d71a"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask15.glb",
+   "bytes": 121616,
+   "sha256": "6f01b6cf17991fce890100b699ed764838b99ae065667c1abf01c2b588f4d21c"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask2.glb",
+   "bytes": 89468,
+   "sha256": "687d0d4cb47016a67c8362cd411a7b40d310486381adef240281aa0d6350661b"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask3.glb",
+   "bytes": 99068,
+   "sha256": "1a06f5dd920985a2c585d4161acbf77a7f4aee367f0e381e73c3bb290ce54fb8"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask4.glb",
+   "bytes": 89484,
+   "sha256": "05cf658954f6c7d63ceeaa5fc03b2a03cc8d7bd566f6d956339b6e4d0401c406"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask5.glb",
+   "bytes": 38888,
+   "sha256": "e399290766188e1770dfcf82cc811d9463d6af907cb3b0af65f56d21a1fb2807"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask6.glb",
+   "bytes": 99068,
+   "sha256": "12885630797f9e9286020a38f59da4097adc5a8fa8228945bd85442222095c46"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask7.glb",
+   "bytes": 108668,
+   "sha256": "197876361a5d45b764a3e74d1260b61d67a0a4edcaab7b56f4758f52f4922846"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask8.glb",
+   "bytes": 89468,
+   "sha256": "651fc4a10bdcb5cdec781e6e9a22eee9220c8d06e6e299c837f2c832b6494c79"
+  },
+  {
+   "path": "city/claude/baukasten/stadtmauer_mask9.glb",
+   "bytes": 99068,
+   "sha256": "af4a4961bb829c8ca190805aabbfe598498dffc9889f6e2b935aa3ef95a425dd"
+  },
+  {
+   "path": "city/claude/baukasten/stadttor_mask10.glb",
+   "bytes": 235308,
+   "sha256": "571aae55dc12e0ec61c26d59ed56334673bb37d353ed34df3dd95287471a2d44"
+  },
+  {
+   "path": "city/claude/baukasten/stadttor_mask10.png",
+   "bytes": 101979,
+   "sha256": "4ed0606eba183b0a6f6e4dd365d74c55ae18c68c8b9baa9838444f4268e19ac4"
+  },
+  {
+   "path": "city/claude/baukasten/stadttor_mask5.glb",
+   "bytes": 241856,
+   "sha256": "fcec596c47ef92a0c80d370ab6388b812a767d9228c852fcf88a97df75d48a45"
+  },
+  {
+   "path": "city/claude/baukasten/stadttor_mask5.png",
+   "bytes": 100905,
+   "sha256": "5b478364615d778e75613c86853147e2d76eabbc6a3568baf448b030396c8e4d"
+  },
+  {
+   "path": "city/claude/beete/beet_fruehlingsbeet.glb",
+   "bytes": 607236,
+   "sha256": "798199bcd313df4c637c1f6ed5275b638e3e09807ac9f83cc0a37dc7301905b5"
+  },
+  {
+   "path": "city/claude/beete/beet_fruehlingsbeet.png",
+   "bytes": 78039,
+   "sha256": "2a21a160829b80092b3b1af5731f7549540799d48142cd209decb2d38fb9bd34"
+  },
+  {
+   "path": "city/claude/beete/beet_fruehlingsbeet_lite.glb",
+   "bytes": 569564,
+   "sha256": "466ad7d92a2c47d41b44f1e3deb84cd43d8519b25265273241e6b38e2849083a"
+  },
+  {
+   "path": "city/claude/beete/beet_iznik_rondell.glb",
+   "bytes": 914156,
+   "sha256": "d538aed443b430907a8623545f2e9105455b3383dffc65dff73dd10ff4516790"
+  },
+  {
+   "path": "city/claude/beete/beet_iznik_rondell.png",
+   "bytes": 70360,
+   "sha256": "0d2478819a30ff05ede7dd1e815c4bebde754908b3cf211908b2012c395f8fcc"
+  },
+  {
+   "path": "city/claude/beete/beet_iznik_rondell_lite.glb",
+   "bytes": 615344,
+   "sha256": "a988e321f5ffc09bf95c03ce4528bdc75954542e8c4f78a8d677322ed255eae0"
+  },
+  {
+   "path": "city/claude/beete/beet_kraeuterbeet.glb",
+   "bytes": 318964,
+   "sha256": "4b0036a0b6ca63268f1045d1eb6eda409248b448f35b2f18e9e8b1c7833ad976"
+  },
+  {
+   "path": "city/claude/beete/beet_kraeuterbeet.png",
+   "bytes": 83509,
+   "sha256": "d17cbbd368420aad157ed8b2747aad8bd2369ffbd8f17039776267ec26a1674f"
+  },
+  {
+   "path": "city/claude/beete/beet_kraeuterbeet_lite.glb",
+   "bytes": 317100,
+   "sha256": "145f97bd9a24a04faa67b60ed6c10d469ce37a9e78b747f544f4745e732d160f"
+  },
+  {
+   "path": "city/claude/beete/beet_kuebelgarten.glb",
+   "bytes": 176328,
+   "sha256": "e9db3c56807f5280e68d275df0d7d93fdcd245db3e2cad97aeda51817c12d0f0"
+  },
+  {
+   "path": "city/claude/beete/beet_kuebelgarten.png",
+   "bytes": 63650,
+   "sha256": "0223c39c6f57f23d7dd1646526d35fff6a632874530dd822393a8a9ee4c974a1"
+  },
+  {
+   "path": "city/claude/beete/beet_kuebelgarten_lite.glb",
+   "bytes": 148856,
+   "sha256": "68941ef1b64bf88b278b17501c8a5abed8c287a7528595f1b8a0c206195519cb"
+  },
+  {
+   "path": "city/claude/beete/beet_rosenbeet.glb",
+   "bytes": 583396,
+   "sha256": "d3478b372f1e2513f6ac4873d2e9e256701a46c2cc0deb4d8344df8c4a7ca9fa"
+  },
+  {
+   "path": "city/claude/beete/beet_rosenbeet.png",
+   "bytes": 83869,
+   "sha256": "854d545559712d05658ece51a13b057a1aaa056e49f2322453303e0fa7b66358"
+  },
+  {
+   "path": "city/claude/beete/beet_rosenbeet_lite.glb",
+   "bytes": 498684,
+   "sha256": "71993a7aca17c066b8f1db7a3525309842dc280bcd9a1a16e02fa116d370ba5d"
+  },
+  {
+   "path": "city/claude/beete/beet_terrassenbeet.glb",
+   "bytes": 650192,
+   "sha256": "f3f976218e3f317deaf721b5b65fe6e36c0666c5d8528bf4ab7d56b21af5d790"
+  },
+  {
+   "path": "city/claude/beete/beet_terrassenbeet.png",
+   "bytes": 103427,
+   "sha256": "c591d24fa0d70845065a55c953f109fc4b0c465e32f0d6e9de7115b0c5b93bcb"
+  },
+  {
+   "path": "city/claude/beete/beet_terrassenbeet_lite.glb",
+   "bytes": 602252,
+   "sha256": "f8b3ccbf210daf0f40468faa1b6ffeeb4a37418c67471e809e71b01cd84bdfa5"
+  },
+  {
+   "path": "city/claude/beete/beet_tulpenbeet.glb",
+   "bytes": 521020,
+   "sha256": "4bda7fdb28b12a65c6a43cfccda3d2074001bb89ad4bd131874115e3ef8549c2"
+  },
+  {
+   "path": "city/claude/beete/beet_tulpenbeet.png",
+   "bytes": 79972,
+   "sha256": "10152306e95fcecb4460337e6b54234366d087a3b3b1e93a1e2d5c6795c3c506"
+  },
+  {
+   "path": "city/claude/beete/beet_tulpenbeet_lite.glb",
+   "bytes": 416812,
+   "sha256": "0030fe1e368fe8c7a290cd9846bbba516b18eb2bb55805a476717544ef0ca928"
+  },
+  {
+   "path": "city/claude/beete/beet_wildblumen.glb",
+   "bytes": 671304,
+   "sha256": "508ff135a75fb24e5149a7a20c69a5298354a807007b1e40832158e009558409"
+  },
+  {
+   "path": "city/claude/beete/beet_wildblumen.png",
+   "bytes": 81578,
+   "sha256": "625615480c0a55e69d832ec58412e11e9b31c2a283a6841b0ce73da2af4148b8"
+  },
+  {
+   "path": "city/claude/beete/beet_wildblumen_lite.glb",
+   "bytes": 649032,
+   "sha256": "1501aa2e6af7cde07de0a3254d3bf73e16e5878aa6890c26df144d458e9f17d8"
+  },
+  {
+   "path": "city/claude/deko/deko_cesme.glb",
+   "bytes": 282684,
+   "sha256": "aea8015e2b82fd4843f1d16f882782014a22a0e90063b3cc77351cc37ef0ea18"
+  },
+  {
+   "path": "city/claude/deko/deko_cesme.png",
+   "bytes": 63309,
+   "sha256": "7de0b24ad07d067da37ae095233cca53b77643f7e4e8a76f645142da0c106b7c"
+  },
+  {
+   "path": "city/claude/deko/deko_koesk.glb",
+   "bytes": 282268,
+   "sha256": "5b8ce592753634da4256302d4250caa32320886f02cfb919bf8b0a50e04f09e1"
+  },
+  {
+   "path": "city/claude/deko/deko_koesk.png",
+   "bytes": 69308,
+   "sha256": "e72b95e220e7080884630630843cda832f589321132556f0a7a3fc51212b98ce"
+  },
+  {
+   "path": "city/claude/deko/deko_laternenplatz.glb",
+   "bytes": 327308,
+   "sha256": "a57a1f726aa36e2fb4fdaf419fe2f861cd2bc868186ef26215ffe07e345902bc"
+  },
+  {
+   "path": "city/claude/deko/deko_laternenplatz.png",
+   "bytes": 74849,
+   "sha256": "3164add57020edb9dd8ea4187a6c795828b35a40b2052234fbd7e4883398040c"
+  },
+  {
+   "path": "city/claude/deko/deko_pergola.glb",
+   "bytes": 619368,
+   "sha256": "c586947543865cffbbae93c59016d128c725ecbe72d49ce37cb7609dd7f8ae60"
+  },
+  {
+   "path": "city/claude/deko/deko_pergola.png",
+   "bytes": 100286,
+   "sha256": "1191ef53816616176c9a3fe229f53ec9800fe2dd4585ad8ebc41c8d0bdf45148"
+  },
+  {
+   "path": "city/claude/deko/deko_sadirvan.glb",
+   "bytes": 181788,
+   "sha256": "966dd90843d51ceabb7e7c2d59ba0a0f2a6ea6cb0d19fee5158cb71984234081"
+  },
+  {
+   "path": "city/claude/deko/deko_sadirvan.png",
+   "bytes": 55121,
+   "sha256": "1f42595afeef3a5f7e4d8e63f230b36cee9edcbae30e382a95a5f4fa247e0e09"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_dattelpalme.glb",
+   "bytes": 411680,
+   "sha256": "8dbd14a267b9f92119701addb2657805929967cad6c1c8793fdc9ee1a088562b"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_dattelpalme.png",
+   "bytes": 70842,
+   "sha256": "ec08fbed75d19c77570d6bc9c2d5fc27fd966e9606dba608415f3e351593215e"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_dattelpalme_lite.glb",
+   "bytes": 405448,
+   "sha256": "76cafa840f2432242eedcb007714be70233fd66e169f6399aa020a9120e49228"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_mandelbaum.glb",
+   "bytes": 104560,
+   "sha256": "57504c2148017acfc4dbefa048e55bb7f4c23681730c50cf6604c616eaf0fb34"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_mandelbaum.png",
+   "bytes": 35539,
+   "sha256": "1df5a2150d26f66496ba1ab22ca283d25a78d61392cb53ff90d1dcbc440e4e26"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_mandelbaum_lite.glb",
+   "bytes": 57312,
+   "sha256": "05f88b5476bfb3aa85fa0e1d8659c5cd64eae098005558d76d98d73a02118c51"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_mandelbaum_sommer.glb",
+   "bytes": 104576,
+   "sha256": "48e63ce9a72184a021becff58f099f497d419bd289fc3fde27b431e029bc26ec"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_mandelbaum_sommer.png",
+   "bytes": 47798,
+   "sha256": "678d0f2333315c9772ca5615a5b3a887665205632485a0fc9a35b609d65bbd76"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_mandelbaum_sommer_lite.glb",
+   "bytes": 62876,
+   "sha256": "ccc60a0bfd03aec48641fc4f20fcaa2b56d3748aee71ca1aaac00d47705fc842"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_maulbeerbaum.glb",
+   "bytes": 200332,
+   "sha256": "5412ae7c2589af6c0c360d2f76d41b011a5472b7ecffb74a5804298745823cac"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_maulbeerbaum.png",
+   "bytes": 45552,
+   "sha256": "a9b284a7c7eadb730a4fb168df9c76ebd60e9e4a0dba77d6ebf7e7360c2e2157"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_maulbeerbaum_lite.glb",
+   "bytes": 74576,
+   "sha256": "b869df34cd59bbb81a44b9612f7412940bf7385f586be186e08c60a33f1e4ea2"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_zeder.glb",
+   "bytes": 349572,
+   "sha256": "98208b8446f6597763a82096c98e928143fda7bfb110e5625531aafba7a94e56"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_zeder.png",
+   "bytes": 80746,
+   "sha256": "f00e3d4ad51eb3f1e18f509ad882b6adb44eb41b5548b1c572eaa136634e7955"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_zeder_lite.glb",
+   "bytes": 168164,
+   "sha256": "5ee2eb72781e0d6a9732b09f7bee15ccd38f29cb3ebde1a7d7a9db290ced9279"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_zitrushain.glb",
+   "bytes": 413504,
+   "sha256": "6f240085ce8fc215177d6bd4ceac8061c6c800384d69944866a4f479ee97b0d2"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_zitrushain.png",
+   "bytes": 73531,
+   "sha256": "da15c160910381bafda0f866892f64e02f6536443cf3c16e122d1e01affc59c4"
+  },
+  {
+   "path": "city/claude/neue_baeume/baum_zitrushain_lite.glb",
+   "bytes": 281936,
+   "sha256": "2db1f9a9b9eaa789a3dbb86b9055a5041fb6bc3c58c80f74f7ded56c3a66d5fa"
+  },
+  {
+   "path": "city/claude/plaetze/platz_chahar_bagh.glb",
+   "bytes": 1386284,
+   "sha256": "26a6a0d908ab0eabf3db7fd1a15a36a4ba7f2a13941500ccfaa29e224a48bfa5"
+  },
+  {
+   "path": "city/claude/plaetze/platz_chahar_bagh.png",
+   "bytes": 86737,
+   "sha256": "ac0f445c00dded526278a8220424020e0bb4dea5db22693d2edc6a4a8f47bde3"
+  },
+  {
+   "path": "city/claude/plaetze/platz_gebetsbrunnen.glb",
+   "bytes": 527732,
+   "sha256": "d4f3a51692ebd5069570e0cac9806e9e60a8b97b060a99353beb2944c38aa5fa"
+  },
+  {
+   "path": "city/claude/plaetze/platz_gebetsbrunnen.png",
+   "bytes": 57050,
+   "sha256": "84cbef77cbb3f0fe6769efa883d16156dd923e5a93f7da4b72b755a4e4ccce7d"
+  },
+  {
+   "path": "city/claude/plaetze/platz_sebil.glb",
+   "bytes": 255436,
+   "sha256": "2dd3c30ec319b6e11086b8b6b93462e73e0c5fe807f62a24e840f4527cf99c65"
+  },
+  {
+   "path": "city/claude/plaetze/platz_sebil.png",
+   "bytes": 66081,
+   "sha256": "882bae564d2e055e670343a1c4e00e123ffe588149e957d6011885e97fd5cea6"
+  },
+  {
+   "path": "city/claude/plaetze/platz_selsebil.glb",
+   "bytes": 419852,
+   "sha256": "65004e917e19b92a83a6660ec06b61107709533f738a86a4b485af3f9ee2a6da"
+  },
+  {
+   "path": "city/claude/plaetze/platz_selsebil.png",
+   "bytes": 65239,
+   "sha256": "d5e327fff13f85f3425c91b8b7e2043a202a7dc9434248b9232581afc6b8d2bb"
+  },
+  {
+   "path": "city/claude/stadtleben/leben_lesegarten.glb",
+   "bytes": 529696,
+   "sha256": "4edbd2b70574b78453c711522726be104551d5d2bff8cec82f3bd452ff8c252c"
+  },
+  {
+   "path": "city/claude/stadtleben/leben_lesegarten.png",
+   "bytes": 105582,
+   "sha256": "a9ff32022244af437c152bfb945091a149b18c314287f4b798951e01845cba0c"
+  },
+  {
+   "path": "city/claude/stadtleben/leben_teegarten.glb",
+   "bytes": 819484,
+   "sha256": "cb416666a450c1986d0b74c9c6855781ad91f2b101b58c38b2d079763b391aad"
+  },
+  {
+   "path": "city/claude/stadtleben/leben_teegarten.png",
+   "bytes": 111092,
+   "sha256": "00fca4d46b24babcd430a93ca4354419ce18454a3b9b0d1206b6bad6c3effe90"
+  },
+  {
+   "path": "city/claude/stadtleben/leben_uhrturm.glb",
+   "bytes": 400092,
+   "sha256": "57a8bd97bd45785d5d0cfb424fc339dd8178bc0e6435faa322561ddf0a316ae6"
+  },
+  {
+   "path": "city/claude/stadtleben/leben_uhrturm.png",
+   "bytes": 87525,
+   "sha256": "48b06bcfeb6cbdb6a8860a1009e11cdd19449774a5c272a5f4db4b0d8bb974ad"
+  },
+  {
+   "path": "city/claude/stadtleben/leben_vogelpalast.glb",
+   "bytes": 335228,
+   "sha256": "748878166f5ca1992c6a5291ec62e5d00e152b5a3784afc072fc23739cbe6d51"
+  },
+  {
+   "path": "city/claude/stadtleben/leben_vogelpalast.png",
+   "bytes": 59706,
+   "sha256": "5cb0e4fe84d8e43f32ecb625049f860a98f1489902e638c7cf176b9554bdbc99"
+  },
+  {
+   "path": "city/claude/strassen/kies_1.glb",
+   "bytes": 137652,
+   "sha256": "80a9255cd89a5007a758c82fc5c70a2ac01da14ae71b701e6f79aaed186a152f"
+  },
+  {
+   "path": "city/claude/strassen/kies_1.png",
+   "bytes": 39978,
+   "sha256": "7a622e14df35c609d0adffea94a4905fc65472d9df5fdce899072f2c36a1ee66"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask0.glb",
+   "bytes": 137652,
+   "sha256": "80a9255cd89a5007a758c82fc5c70a2ac01da14ae71b701e6f79aaed186a152f"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask1.glb",
+   "bytes": 157760,
+   "sha256": "bc4edb420f9ea5971d0ec0d7bde1f2ffdf69675028a7097c565d4fb5845b6ccd"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask10.glb",
+   "bytes": 160216,
+   "sha256": "bf49ca3bb424c041cc20de44376b191af9bbe2784cb5d01b7ae62b11af73e26b"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask11.glb",
+   "bytes": 168888,
+   "sha256": "e330f99f019258886bd92d8e11cc309638347938d835e5c61752cdc5d3838074"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask12.glb",
+   "bytes": 133240,
+   "sha256": "38c697ed965adcaefe956110798aa38d283fa53d20e067153cbad5056d4aa298"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask13.glb",
+   "bytes": 169032,
+   "sha256": "6cd27bc3989e9db531fa905f14b368fcf16e67d5a3ccc96d44f650d55b75a93c"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask14.glb",
+   "bytes": 168852,
+   "sha256": "6812a59f64a1da68eef99f6b02a5f7151d9b3b3a5cde35f5a87b36ea7f480463"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask15.glb",
+   "bytes": 177528,
+   "sha256": "5ffc4708f005efe082d117da9c0b32e274ca126d2703d62259b5f45fa536e281"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask2.glb",
+   "bytes": 157688,
+   "sha256": "79de6fd1f3e4b6f7ef3bb6159c338618ffcb981edebe7daa0e6e8de5b76f6f79"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask3.glb",
+   "bytes": 132912,
+   "sha256": "fa7619112727ca387a57cf23ba03eccfba402b3b7c1048406b1a9a11ab547c12"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask4.glb",
+   "bytes": 157688,
+   "sha256": "06431cec06798663b2b09b6504780b2f5951dec50a52ff298a9e3c3999e58c8e"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask5.glb",
+   "bytes": 160180,
+   "sha256": "e908c5cdea2387f756b50398be66794b37e33e3dd5a727f78df8f1ab876f9a99"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask6.glb",
+   "bytes": 133164,
+   "sha256": "7564ead77ef40d39267f1e6440059ef6d65ab6dd19e41b9e0b8e7ecebaea1569"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask7.glb",
+   "bytes": 168672,
+   "sha256": "9bd290095d04fcff435d126a82881e9c099d9e44f3c4155c75793dd631b987ba"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask8.glb",
+   "bytes": 157760,
+   "sha256": "1d05d757c4a0894987609fae30b744263eba54cc423f7a51ec4f8519e153ba88"
+  },
+  {
+   "path": "city/claude/strassen/kies_mask9.glb",
+   "bytes": 133020,
+   "sha256": "a77aa514c14af0eb4e10202038720a6dc50e22cf2c51db40912fb207fc55267d"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_1.glb",
+   "bytes": 335952,
+   "sha256": "8235860214acf3e12189d1e598dfcc4c03d0b1440187fa073ecb850e5953fb53"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_1.png",
+   "bytes": 100652,
+   "sha256": "953bc49128d6dd2a994820307139d67c45b8f34de2886df0dec46ab1dabff3e6"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask0.glb",
+   "bytes": 335952,
+   "sha256": "8235860214acf3e12189d1e598dfcc4c03d0b1440187fa073ecb850e5953fb53"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask1.glb",
+   "bytes": 330320,
+   "sha256": "7bf8b9cccb06622c021e03a60e9230b58d52d644ca9f9db3b3d43bc9af0992e6"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask10.glb",
+   "bytes": 322816,
+   "sha256": "025252942b73d3450ad677d711356e1687cde340e2880be64e5840bf0a1e7891"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask11.glb",
+   "bytes": 315312,
+   "sha256": "ba54811bf7e123aa0198d4c447a00cc21ce0de90780eefa442e9712d03610a76"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask12.glb",
+   "bytes": 322816,
+   "sha256": "d55792d06bc7eb9496b7bbb851f28e20b12679002cd76df3f5f1af0e9b8faa11"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask13.glb",
+   "bytes": 315312,
+   "sha256": "b2c93b5746a94aaf89e0cdf44ee52dbc299b36118a57c8bee78c260f4da612ba"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask14.glb",
+   "bytes": 315312,
+   "sha256": "3db7e72affd1d60fc77fdfee2d6beeb8b065bdfc9381be826dd36cda3e09fcd2"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask15.glb",
+   "bytes": 307808,
+   "sha256": "24d06bd37982170f16d8b99fcb9207af5fce2269b0e543758816d957b7a9cf43"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask2.glb",
+   "bytes": 329384,
+   "sha256": "e5e3839fd38cd1ac0b954e7852e124c9cce40690f7c0a9122f9f7923c2721a5f"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask3.glb",
+   "bytes": 322812,
+   "sha256": "305d06ab2a7f51ac123a92f1501ec1e26902c19826677f2a563465705b3e8fac"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask4.glb",
+   "bytes": 330320,
+   "sha256": "01ac6c79a3d4b540abc011b5b0f855c7fd808d25c8263e9283683b9171f0a402"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask5.glb",
+   "bytes": 322812,
+   "sha256": "a637345f02c378dc577861b241135098675b0757f926ab41d5143d9c59574eb8"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask6.glb",
+   "bytes": 322812,
+   "sha256": "971217f5a3efe44007a73a68e5400ee4c0edf77ee325b5d928fe3cb3927130ad"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask7.glb",
+   "bytes": 315308,
+   "sha256": "3afd6daee09ae3d6f6b4eb60407ed3a79d38305b4155df153f93bee3ae71e102"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask8.glb",
+   "bytes": 329384,
+   "sha256": "8b87c4d23e67d39ffb7a3abae769deb3ca0dc74a1d0d01582b9ed37309fd40f6"
+  },
+  {
+   "path": "city/claude/strassen/kopfstein_mask9.glb",
+   "bytes": 322812,
+   "sha256": "08d6481b1baebffa5bee41c468a77fea29c82a349301ae45e4d388bcdb43c68b"
+  },
+  {
+   "path": "city/claude/strassen/marmor_1.glb",
+   "bytes": 182988,
+   "sha256": "9bcbfd64fc2e2841cfd399941427bb21c172868cb271e2d2b95cce157a305e73"
+  },
+  {
+   "path": "city/claude/strassen/marmor_1.png",
+   "bytes": 40003,
+   "sha256": "7d5e585ed97c79b5bb0401e3d39842d4400341698865b2fb9678204377eda87d"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask0.glb",
+   "bytes": 182988,
+   "sha256": "9bcbfd64fc2e2841cfd399941427bb21c172868cb271e2d2b95cce157a305e73"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask1.glb",
+   "bytes": 185588,
+   "sha256": "b0b24a68d04029c259f2a79f2f5d1669dcdb449791e0bc26226feb1d55689f1d"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask10.glb",
+   "bytes": 186320,
+   "sha256": "1afa867243f762b9f230e37ec51f3b85caee9b04809c660e3558381123a8323e"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask11.glb",
+   "bytes": 188920,
+   "sha256": "4aba57ab09e8d5fcded2a0b30d189beb4a10154661cbff1d1e2c5a99139d10c7"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask12.glb",
+   "bytes": 187256,
+   "sha256": "f04d432c28a88a1e3527f33f77fbadd8a690b128e3d05e1d2cc5207da1b98735"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask13.glb",
+   "bytes": 188920,
+   "sha256": "75afcb53ae4ef9bad7787b984c2af9297e2ac9b571bc250ed717068898c7b989"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask14.glb",
+   "bytes": 188920,
+   "sha256": "6a1daf2ee8cdff751717230ec74f1d6a473740800819668c1bb9ebd75e42d72d"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask15.glb",
+   "bytes": 191524,
+   "sha256": "8f34e09cfd97f975553938a3d67940039a5f2d05a51c54e9281aaff9ae4938ff"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask2.glb",
+   "bytes": 184652,
+   "sha256": "66c75921052cf172808c5ec059683c2083a58612dc96d29e103c87b034ce3651"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask3.glb",
+   "bytes": 187252,
+   "sha256": "81ac43533c0f801a2fb9cee71259cb228b8df63c80c5b4c6b5da88a86a848a0b"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask4.glb",
+   "bytes": 185588,
+   "sha256": "52c5885f4cd0f388d1af745379ae6f9edc7c8f70a60981976023245bdf7ecede"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask5.glb",
+   "bytes": 186316,
+   "sha256": "7bd5a2ef9a2862ea47e97ae01117abfd9aae592052d1855f9c294a474307acb7"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask6.glb",
+   "bytes": 187252,
+   "sha256": "a4b304779ba88f9ac6d1ea9e8ea455f8877601c605a7a0c20f39275b993e9176"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask7.glb",
+   "bytes": 188920,
+   "sha256": "2e75b6cc3311c5c9a09f819d9cdc3912c8a9b38c04b552419f7c1e7cd8dd508c"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask8.glb",
+   "bytes": 184652,
+   "sha256": "dbbfa1360e36319584bf4099109cc9348ee9bc7915044cbca6b3d616f6a2293b"
+  },
+  {
+   "path": "city/claude/strassen/marmor_mask9.glb",
+   "bytes": 187252,
+   "sha256": "e09a82cf0016606527a70f2997891bce4e4d637836461831b76f35621d4a4671"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_1.glb",
+   "bytes": 146292,
+   "sha256": "0fd133af73a837def3a385c29e98c4d9afbbf6d3e8341ed0f181c61186418792"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_1.png",
+   "bytes": 53482,
+   "sha256": "28c8b6ea5789d7b950f6aa1240459427048685fb5b1729922259ce9bd22f3b0f"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask0.glb",
+   "bytes": 146292,
+   "sha256": "0fd133af73a837def3a385c29e98c4d9afbbf6d3e8341ed0f181c61186418792"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask1.glb",
+   "bytes": 187460,
+   "sha256": "78025155c8384d1966ca69f87db6efd7903dc287106042ef0ca97b8abecfcf52"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask10.glb",
+   "bytes": 200504,
+   "sha256": "46767a1da632e98714da46e30677d533af1ee93883536301ff7ee081d0520c77"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask11.glb",
+   "bytes": 266056,
+   "sha256": "2f015f2b0b10848381b9fcf33571d010d5929b3d3243c0ac74f67ee09a56830b"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask12.glb",
+   "bytes": 234248,
+   "sha256": "dafeb2fd6cb01d86a92b3f5ee972f29b8f900aaa9253d9a0b9c19581735ec2e3"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask13.glb",
+   "bytes": 266056,
+   "sha256": "203d24864ef1c60935072f8d88ebd5d60d066b41d3a41ff2eb8be53c2cb73ddf"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask14.glb",
+   "bytes": 266056,
+   "sha256": "5104e1f623b3a6f0d5fd800e9e8e517f8b8b428c145ca2ed9bc0ab4261986250"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask15.glb",
+   "bytes": 305356,
+   "sha256": "08f6400cc2eba1476a640e7b284a1f74b23a6cf4bcc079e93509587ef6c72218"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask2.glb",
+   "bytes": 186524,
+   "sha256": "6ae39efa78fdbc6df935c39f62dccdf0435d0623e2ad9edb02fc5295574fba1c"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask3.glb",
+   "bytes": 234248,
+   "sha256": "0e3fa0a3607faba4559bf86a979572aea74f16843b15f807c5ea358becccd962"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask4.glb",
+   "bytes": 187460,
+   "sha256": "f65452041f3737c8465fe14c1c88d3edd5a474187a59533c5afe95db999abeba"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask5.glb",
+   "bytes": 200500,
+   "sha256": "49a1cf1dbe3d8174f621418800e9c6f96f254109f36ee40129392b9a1aff540e"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask6.glb",
+   "bytes": 234248,
+   "sha256": "fd16535dd1d29b5e78d998babe719a1ac7016ded6edfc5acadc9176ff602136a"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask7.glb",
+   "bytes": 266056,
+   "sha256": "de9a135bfd59d157946959bbe49a266735f328992fc0556adc49da5ccc6d188e"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask8.glb",
+   "bytes": 186524,
+   "sha256": "40eaa6e735cd863065c6e74aaf570ec498ec2555ce0d79caa3992917d0679c22"
+  },
+  {
+   "path": "city/claude/strassen/mosaik_mask9.glb",
+   "bytes": 234248,
+   "sha256": "2fb20c0a04a8831a08c580c67b46c60125214d5fc44bb370e78ff5aef0bc8376"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_1.glb",
+   "bytes": 262308,
+   "sha256": "74cae76757d1e87dc5c23cb28954c0e98478cb3c965f3a5198b1f1c273f81aba"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_1.png",
+   "bytes": 102986,
+   "sha256": "db00a885205d39653b5e869447cb1b435f75c0a6e12120aa366b1436db37cd7a"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask0.glb",
+   "bytes": 262308,
+   "sha256": "74cae76757d1e87dc5c23cb28954c0e98478cb3c965f3a5198b1f1c273f81aba"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask1.glb",
+   "bytes": 243572,
+   "sha256": "7a3cf9c79e40bd1937c86b00d6794a14ab2b0fea1a28844228d79830e6521f7d"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask10.glb",
+   "bytes": 226712,
+   "sha256": "e5ea18f757509dfec1b75aaf97627592e6f61808aefc7b0143819e3eb8be9d4d"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask11.glb",
+   "bytes": 207976,
+   "sha256": "287930e3b44ad513b4bf866555194a682b90ae2edba12b7b3f1eb1c70ff3c1ef"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask12.glb",
+   "bytes": 225776,
+   "sha256": "9ad9eedcda1c826b24c49b42be740237c43c5bb6d2cf3ec8453e3409e243e904"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask13.glb",
+   "bytes": 207976,
+   "sha256": "997de57106cea8624285fdd3a0dcd82e0418370881e778ea31a042faac7467f8"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask14.glb",
+   "bytes": 207976,
+   "sha256": "36342df861fdb4c2d9768921c11b4689809c442692e3edff13e56cb476b56369"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask15.glb",
+   "bytes": 189244,
+   "sha256": "c7abd826f16632e2f591c701c6834d7fd0e8f794c0ae98f0b032b2932d007c54"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask2.glb",
+   "bytes": 244508,
+   "sha256": "7ef73321cffea6a84a070bda2b43c3461f64b296fbb8bd0428cbc47ce802986b"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask3.glb",
+   "bytes": 225772,
+   "sha256": "5ca2baef2727110d6123d2c73596cf733e070298b883ba84db7cc235792e1264"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask4.glb",
+   "bytes": 243572,
+   "sha256": "c5f1a7b75d26528432f965c400fde46a5b9f75dc41fa2fbfc5ee9fadf0fa5685"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask5.glb",
+   "bytes": 226708,
+   "sha256": "259b53e7a663b4caaba2f37b25ce969f244cedd872b56fe873266a399a2d9a0a"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask6.glb",
+   "bytes": 225772,
+   "sha256": "dcd1c17450c6073a0f748b355f580cb122487a65cdfde0c02ef7a93b03a43a87"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask7.glb",
+   "bytes": 207976,
+   "sha256": "cf649716ec50ab1b1a21c6a2666266d66bb243c10945559825aaee8c620e6d45"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask8.glb",
+   "bytes": 244508,
+   "sha256": "2ec67c6784d395f68c81254cdc5a91ffd307b610527fea7d1a71370b28dd4aab"
+  },
+  {
+   "path": "city/claude/strassen/ziegel_mask9.glb",
+   "bytes": 225772,
+   "sha256": "2a627d3ddf05f3fc54ab09d29f61bec40dcf6491177031ded3d635fd46e136c0"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_fruehling.glb",
+   "bytes": 554488,
+   "sha256": "fdfafcc75098ed9e00224299a77b268372977dc6a4b1163d5d286774ca932cd6"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_fruehling.png",
+   "bytes": 90203,
+   "sha256": "d0638868228764211c495bc0d1a5e214bc9333f288fe664fdd9c84ddeac41607"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_fruehling_lite.glb",
+   "bytes": 350516,
+   "sha256": "808c476f7438f179c326255ae4ea8012b3e8daacf14a5c391bcae8b9794c9428"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_herbst.glb",
+   "bytes": 595664,
+   "sha256": "3d455f07dbc25cefb427d5fa66d99c6f705eb2ebef97af70db23018997090459"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_herbst.png",
+   "bytes": 80616,
+   "sha256": "51dda645524a4c4bf251d941d61c4c435b31b4e4206a131ca9ebe90f0ffa203e"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_herbst_lite.glb",
+   "bytes": 360396,
+   "sha256": "19697c09bf93cc5a693a8ebb6bf0c320572d410da3fdcb35bd8a35ea8c2560f0"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_jung.glb",
+   "bytes": 595664,
+   "sha256": "d70d1754bc29bb2fafc684eec983f608bbb476ea7c93778581d05dbd43600e9a"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_jung.png",
+   "bytes": 53733,
+   "sha256": "b91be94af957b388944bd08e7a428b863839951dbbe54edd7474886665cbdd0a"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_jung_lite.glb",
+   "bytes": 360396,
+   "sha256": "12d2d7cbe59dea8fb2245d9cdcf5502346dbe007d8c5a1c8a6f2fd4f9d0c2164"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_setzling.glb",
+   "bytes": 33308,
+   "sha256": "c61cd85b2da3b3a4ae63fe7b16ab3fa21ffbd3243f5aceaf71153c13d3997104"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_setzling.png",
+   "bytes": 29146,
+   "sha256": "cfd826b2fd3b872fe88751ba9a83e243e32c438992b15d9902b35f54231129aa"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_winter.glb",
+   "bytes": 33516,
+   "sha256": "9ca0eb6cfca21f1c275b2efab105bf88a327a9e85be8f8d0bc6961cc8fbf1a42"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_winter.png",
+   "bytes": 46822,
+   "sha256": "5065cb52dd095b38c15981dfeda988d1286d742704d24054fac3fb0663c03a95"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_feige_winter_lite.glb",
+   "bytes": 33528,
+   "sha256": "276b615286175352fe11cf9328f3fcd38031019432e021b58effc763815f7c58"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_fruehling.glb",
+   "bytes": 586180,
+   "sha256": "4889366240f8df3ff61722926884e2e2cfd1b99118469185aa6835bec0763ac3"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_fruehling.png",
+   "bytes": 79675,
+   "sha256": "15903449073188824e753adf992c6a2685f3abe994760d77afa30e4582fdf243"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_fruehling_lite.glb",
+   "bytes": 301948,
+   "sha256": "029c9bb719ad17099237c373023c86d220e531d53bd291b3089979becc75f914"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_herbst.glb",
+   "bytes": 607460,
+   "sha256": "2119ef15ef8c44be76d9d0dab7b4768eb45b34b6cd837c1453940d03d8fbc6a2"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_herbst.png",
+   "bytes": 70490,
+   "sha256": "f877dec736e0abd1a045db30f19371727e988ee464d098b8952db73a2cc2fe93"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_herbst_lite.glb",
+   "bytes": 302808,
+   "sha256": "4b817111d35da0f98b6f4c8b33d22948f7809d449bfa2ec737c2900d77665853"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_jung.glb",
+   "bytes": 699188,
+   "sha256": "3a7ee10640b826ab065ce3a238c514e3174e6258c5694095e50cb0df8fefffbe"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_jung.png",
+   "bytes": 47101,
+   "sha256": "b3a598fc3ef662e5fcd746d51fc1d6ef4cbf8f54a67bb753599e6468ae4e19e8"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_jung_lite.glb",
+   "bytes": 345048,
+   "sha256": "6ab682743d197ee3b676712920d9aea205ab90391b72a8c943d770529b22c150"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_setzling.glb",
+   "bytes": 42444,
+   "sha256": "6e39a41cc8e648070b2b9a014d6bb6a230e8025957638f0e34a0fe314ab85d87"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_setzling.png",
+   "bytes": 29401,
+   "sha256": "b0c78dba0fccd0f485611494e6777d4be1b9af1fad43176ca750613c9f745aac"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_winter.glb",
+   "bytes": 40704,
+   "sha256": "8f34f4713c5f280c455f41fa289b65f3340d4ee36cdcc9a9a72a46e18237b1c2"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_winter.png",
+   "bytes": 43350,
+   "sha256": "e2636bf9a6c51d9c283636e81524db1a39f3a3c45d29766a73c3745528df6b0b"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_granatapfel_winter_lite.glb",
+   "bytes": 40716,
+   "sha256": "87428970fb0da5cb3451f9434f2a5cc154f2eac0ddb6cd22be2ed84a0afa9841"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_herbst.glb",
+   "bytes": 1425640,
+   "sha256": "38d51e4503d6e32a8ea23490c9c2fcd67f914f4228b9ccee60cbeb4b6efdb685"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_herbst.png",
+   "bytes": 88651,
+   "sha256": "d97df0e994193b4aa7282d9ada200bf94e0fd6e0bcac79bd166cdaad8db053ee"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_herbst_lite.glb",
+   "bytes": 724536,
+   "sha256": "805996b5c098d105afe65c181a53cab7d7115978b372416bae179dc3780f41d0"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_jung.glb",
+   "bytes": 1425640,
+   "sha256": "74eba6d148169bb8378adc519a8f980234755ed4fb588ca80d832aed6aeed767"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_jung.png",
+   "bytes": 54039,
+   "sha256": "08f5c050bd88efc08e8bec7bdd1f59516d2607bcc9f017383c48f9d70c2da0ec"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_jung_lite.glb",
+   "bytes": 724536,
+   "sha256": "00896e9bc76b24351b7ef4b0f72a6ff377730300d6915ad9afcdfcaddf5152b1"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_setzling.glb",
+   "bytes": 33316,
+   "sha256": "1f66f6f3354759820bd2c313f7c5a921965305907917cb231b1bc1e5b2754f13"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_setzling.png",
+   "bytes": 28870,
+   "sha256": "bd749b8dd49ce753918d647c5a6b483168329e3e8cd84b6862d7bf20cb6757e9"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_sommer.glb",
+   "bytes": 1425640,
+   "sha256": "2e9b06cd66b9d47703527872d614f929fb5857b17a5dff52fea847cd1f097a85"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_sommer.png",
+   "bytes": 97558,
+   "sha256": "7552486d479f57ad82f1b28665a0e39d9d3585360b164007be98af84c19ae8bf"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_sommer_lite.glb",
+   "bytes": 724536,
+   "sha256": "46804c8267d75e065c592833e6d7a42cbd713f1d3103f89a04078f0110394b18"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_winter.glb",
+   "bytes": 98668,
+   "sha256": "c83ff0df3b24e2689bcaa1cd4f6c0f1ead492eaf425d2ad3f2aaf921de06c012"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_winter.png",
+   "bytes": 64138,
+   "sha256": "5630fb08e57d30a3ed85391265233f19e5ebd96adf65130e92719fc61440c07c"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_judasbaum_winter_lite.glb",
+   "bytes": 98680,
+   "sha256": "108c8984478a802ec39d51ba07236ba818a1c6f68c875120256ff5fca6c1bb8f"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_olive_jung.glb",
+   "bytes": 650864,
+   "sha256": "97de9d3fb17f2529c92e0e083c1236a040c32c33885b8fff31765986921fe689"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_olive_jung.png",
+   "bytes": 54433,
+   "sha256": "0241920b69964c8dcd563b88d23262bde47708aa4899923806bd370476f6947c"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_olive_jung_lite.glb",
+   "bytes": 377724,
+   "sha256": "8c1f208f596ce47998e0cec2023a4b44c54b9a31549a7051a6b7c6250524e5ce"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_olive_setzling.glb",
+   "bytes": 33308,
+   "sha256": "449200df79a6d185754ccc7aa6f87372714c20deca96dd2089579552e04e0c09"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_olive_setzling.png",
+   "bytes": 29053,
+   "sha256": "22932ac9f79f287baf675dc3c649632476370063933d7121f7b9dd0c08aa4349"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_pinie_jung.glb",
+   "bytes": 672872,
+   "sha256": "3a7e07f1496feeb4d9e7abb72f329b1d3479fb4ae6810bf1526f2bee1be4f9f5"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_pinie_jung.png",
+   "bytes": 56591,
+   "sha256": "33e0acb6286b4f9dae973bb89551240c82d7a18cca4ebf37ac823b71469fd31a"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_pinie_jung_lite.glb",
+   "bytes": 340184,
+   "sha256": "adcae5d7c9250623177899375e06ede25f74c2c74973de8ef3423d2bff457608"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_pinie_setzling.glb",
+   "bytes": 29156,
+   "sha256": "cfeb067bfa1d1f5cae802738efb4b11980a5f71c2a7092dc30716eac9a38db31"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_pinie_setzling.png",
+   "bytes": 29462,
+   "sha256": "47896f25a84fa42ffec7b61c86bce3ce1cf9a3eb044876d618e55cb5d703e700"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_fruehling.glb",
+   "bytes": 861304,
+   "sha256": "7853979fd9aad6c29fd3d74d3abce764e64e1b25b9c361828328a7fa893f5615"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_fruehling.png",
+   "bytes": 97502,
+   "sha256": "a45a17461a69d5c8bda7ccf78f5067d7da08f9f61ca17e7bd5deadd337466b0b"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_fruehling_lite.glb",
+   "bytes": 336816,
+   "sha256": "7a77db3d29dcc1ce31d564c07af2917a53bb946fa68491c39fa948d222564442"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_herbst.glb",
+   "bytes": 861296,
+   "sha256": "9dcf4d9590d327af2ed15f73846445ff06e9b570e8ab2ea1a8fd8b1c083f87bd"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_herbst.png",
+   "bytes": 93471,
+   "sha256": "240f18a7ce7121dfef313bc9eebc3302eeebe6c55fe7aebb3858a23013755853"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_herbst_lite.glb",
+   "bytes": 336808,
+   "sha256": "40c6477b27a0308fc42253ba58b7f021335489a80f779bcad01339c4c66af397"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_jung.glb",
+   "bytes": 861296,
+   "sha256": "7a0c150d8de6a826f708c9d4e5102423955484f856d1e6dbd5f749251cbe53f3"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_jung.png",
+   "bytes": 72376,
+   "sha256": "d9513be36e4f5cfd61a0bfa441bb9cd7e38e573bab1cf6c4330faf9cb10ffe97"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_jung_lite.glb",
+   "bytes": 320840,
+   "sha256": "f98f2e1191d4780a319b6624907a5158176d355ec01a9a4c8aa5c41118f39184"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_setzling.glb",
+   "bytes": 33312,
+   "sha256": "8eb75f6d04abfbcc7f7cd7f4ff5368046e2368e0dd664514b76a61e61e900909"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_setzling.png",
+   "bytes": 29444,
+   "sha256": "1318e7548623e673ca534e5d76f3fb60a547be1a5793064beb90fe0f5897846c"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_winter.glb",
+   "bytes": 97684,
+   "sha256": "af536970e0d934829fd43d4fda195c906afc44da1cb2d37faf2bf698488807b7"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_winter.png",
+   "bytes": 81175,
+   "sha256": "67d361b29acb6efe46328af53c370937691cee3fea92df030a0b507a25160ead"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_platane_winter_lite.glb",
+   "bytes": 81636,
+   "sha256": "47750222ff7cadecff2b0f02df50bd4e5484c143673acfa9a2aaffa652257a10"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_fruehling.glb",
+   "bytes": 2790872,
+   "sha256": "0ceffceabb98ccac40533433765196be4e03aec66835268424e5efab03e10566"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_fruehling.png",
+   "bytes": 102384,
+   "sha256": "0604321bd3066edae0e39f7e6599dcc21d9cf7c6167845fa18e486ee377f0843"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_fruehling_lite.glb",
+   "bytes": 1310364,
+   "sha256": "bcca060627f11b10a602f3a6fc4ebb9a3aa9377ccaead866f618fa361c333f12"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_herbst.glb",
+   "bytes": 2790864,
+   "sha256": "284d4b618712912569701ccad1520aab6415808a4bc8b3a430956b9b4af42e9c"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_herbst.png",
+   "bytes": 97319,
+   "sha256": "21fc86bc0db9fc596441103a9a3724df0bf73600643c50b28c2b0e360a0732e9"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_herbst_lite.glb",
+   "bytes": 1310360,
+   "sha256": "46ac1049b516405770a0274b8665ae8b35dd2763c369a2b17f14eb4a58609eeb"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_jung.glb",
+   "bytes": 2790860,
+   "sha256": "b93e3adae9b390aa9b9af82bf17f12b05f07d8ae2fbc973c8939725a845bc640"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_jung.png",
+   "bytes": 59063,
+   "sha256": "5c6213b10741c55149e6e0a6c5dac326d2943f57c80cc10c34c3bd72ad6c18f8"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_jung_lite.glb",
+   "bytes": 1310356,
+   "sha256": "db59f802378dd567ced4c26937a90373269cffa30916d6c24cbe6cdcc7169c7c"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_setzling.glb",
+   "bytes": 32740,
+   "sha256": "d73b2254940c180645d0895a5b1bde1ea685d74b84bbe7036887a58af38b519a"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_setzling.png",
+   "bytes": 29823,
+   "sha256": "8510d50d8b64f00e4343f5850aca9172616d65b279c34e11c894c82964404d09"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_winter.glb",
+   "bytes": 22032,
+   "sha256": "fe37823f1968f05c18dbfe4b8eaef0cdb7d5ca6dc6400459a1b787f62bad4ee3"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_winter.png",
+   "bytes": 51494,
+   "sha256": "dfb61722d7ed56435d7b13366b1e49bc3881f8fc4bf84f13b3a5a92e487c37b2"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_trauerweide_winter_lite.glb",
+   "bytes": 22040,
+   "sha256": "e9e925b6a87bf55f37ccd58fe32f266a27b91bc03c55237000bd6fa1303781f0"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_zypressen_jung.glb",
+   "bytes": 1407732,
+   "sha256": "5f1df056912d1792f6b105b2f15e5f64cab380152f8c24c9c281e28fa243867f"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_zypressen_jung.png",
+   "bytes": 50769,
+   "sha256": "4fae9d8296fd436a2d1ba4826699a1badd29ea988c3ec6123a3ac700f8ae32a8"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_zypressen_jung_lite.glb",
+   "bytes": 1170528,
+   "sha256": "7e2dedb1ee0890e2913bab6c78029c429335090d6a67f3834bad9eb9cfc3031d"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_zypressen_setzling.glb",
+   "bytes": 30604,
+   "sha256": "c583a183fcff9184dbfcc12554333ac6d77e7585a4f8fc7c462877283e7245dc"
+  },
+  {
+   "path": "city/claude/wachsen/baeume/baum_zypressen_setzling.png",
+   "bytes": 29429,
+   "sha256": "4053056797fdead48892bf28dd587329b8fb0b5184905c30d7a50d475c99e8db"
+  },
+  {
+   "path": "city/claude/wachsen/feste/eid_girlanden_mask10.glb",
+   "bytes": 276316,
+   "sha256": "2a2828c7287c9797257d8af38f21a37d674bb560ec3e657c8bdac25094bd3dd5"
+  },
+  {
+   "path": "city/claude/wachsen/feste/eid_girlanden_mask10.png",
+   "bytes": 67004,
+   "sha256": "f4b142dcec988c84d164b69481e043c44abfa6001b9d10ef8dd80ab78dfffd92"
+  },
+  {
+   "path": "city/claude/wachsen/feste/eid_girlanden_mask5.glb",
+   "bytes": 276100,
+   "sha256": "b6f3eb89acb11bad29a1c30b6b1779cbc618a9085a115a3103a7ab86771cc801"
+  },
+  {
+   "path": "city/claude/wachsen/feste/eid_girlanden_mask5.png",
+   "bytes": 71309,
+   "sha256": "999224297e9582bba845bd33d27f440d7c5e53f4763bef3e39dd3ff5b6766b46"
+  },
+  {
+   "path": "city/claude/wachsen/feste/ramadan_laternenbogen.glb",
+   "bytes": 347696,
+   "sha256": "d23e7adfa25600bdfc3a5a4782d37d4ac398946f77412b2a9c2904509be7e0af"
+  },
+  {
+   "path": "city/claude/wachsen/feste/ramadan_laternenbogen.png",
+   "bytes": 65473,
+   "sha256": "8112a6412a5865f51421fe744d7e2f8de4634c6714eab37c7ef71bcffa6858a0"
+  },
+  {
+   "path": "city/claude/wachsen/feste/ramadan_lichterkette_mask10.glb",
+   "bytes": 316616,
+   "sha256": "aa015f0e8f77634a8e72a16141d3d8385ba89802faedf76f82fbe4b682089828"
+  },
+  {
+   "path": "city/claude/wachsen/feste/ramadan_lichterkette_mask10.png",
+   "bytes": 58929,
+   "sha256": "daa237907f52fd296410a48427f1315bbbd6ea329421d79a50169644c121f5af"
+  },
+  {
+   "path": "city/claude/wachsen/feste/ramadan_lichterkette_mask5.glb",
+   "bytes": 316608,
+   "sha256": "d40ab19a7b511c1c8df6dc9714267dccc8993abe2493033fe48f038748ce9fe8"
+  },
+  {
+   "path": "city/claude/wachsen/feste/ramadan_lichterkette_mask5.png",
+   "bytes": 61244,
+   "sha256": "a521cbb17bddb26d44f9a1ab6ea7edb6ce2c55ab924b04ef4019c1e7da08c94d"
+  },
+  {
+   "path": "city/claude/wachsen/feste/ramadan_zelt.glb",
+   "bytes": 467372,
+   "sha256": "7a62b14413efb022b566c31cdcf58a3f99653fc5400ad4fbb84a7853dae716bf"
+  },
+  {
+   "path": "city/claude/wachsen/feste/ramadan_zelt.png",
+   "bytes": 78470,
+   "sha256": "41869c10f83d9c5c958ef9a6c2419213744c84469fd88c7b7568ecdd8a082545"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_hyazinthe_stufe0.glb",
+   "bytes": 68604,
+   "sha256": "ecb3fe52d66ab2e696e74decb7546f2389abb2a7e88307e0732c637d31b35992"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_hyazinthe_stufe0.png",
+   "bytes": 30540,
+   "sha256": "860689fab999234442003b7d5ca0d0faae500b72a99ce730252b9592a655d634"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_hyazinthe_stufe1.glb",
+   "bytes": 95724,
+   "sha256": "9951dd687e23acc1c8471ba0a71d5c58b2d7aa9d5b31f4de634b2420ca186268"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_hyazinthe_stufe1.png",
+   "bytes": 34362,
+   "sha256": "d78e97b68a77572216eb94eafe5493bfe6b48d25abcf6faf668ee089557815c7"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_hyazinthe_stufe2.glb",
+   "bytes": 259168,
+   "sha256": "44db5e71163cc83651fb14a0c1fea04f3a3f897de66cd9a77b888f5a9f0caa2d"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_hyazinthe_stufe2.png",
+   "bytes": 35887,
+   "sha256": "4e87e6fceb7770436ccb148105d33069d827559d6c9ca6b9e17823de9317a372"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_nelke_stufe0.glb",
+   "bytes": 68596,
+   "sha256": "49635c94426bcfb5b13146692c544b0aed784ea1cd62f6b8e4341dd9bc55c858"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_nelke_stufe0.png",
+   "bytes": 30384,
+   "sha256": "3fb0d674c7e0d8152c2ce288450559c45741e43bf7371e03bc29bd34a7c82846"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_nelke_stufe1.glb",
+   "bytes": 95716,
+   "sha256": "6750d00dbb557bf71f165a6067dbc69e8d0bcb4d600ecbbace796d18101c19e1"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_nelke_stufe1.png",
+   "bytes": 33760,
+   "sha256": "2586f967c7bb0f4850db8ff18198b6bbca0814c75a2e387510fedcbd9f13af86"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_nelke_stufe2.glb",
+   "bytes": 185288,
+   "sha256": "6b0c66fea1ce0e5719ba52d4e4a8b84f1c149b7a6c353287a310cb7a7f609bbc"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_nelke_stufe2.png",
+   "bytes": 34015,
+   "sha256": "e24f184602be5d965d67c02192a79587d7ed58a150de7a05085745a26e5037b5"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_rose_stufe0.glb",
+   "bytes": 68592,
+   "sha256": "6f1824d48ec9999e52c7e562bb6ffb778fddbbb2b6864d521288b8b79568e7e5"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_rose_stufe0.png",
+   "bytes": 30588,
+   "sha256": "5228acc3cff4e7e5c52c800ebeccdce0adc1711fce4aa64904fc7c7eeb843ba4"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_rose_stufe1.glb",
+   "bytes": 95716,
+   "sha256": "71767d3cea37c4f38787ca5d2eecf7d0639feec72b5c7b889fedbd8103bee919"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_rose_stufe1.png",
+   "bytes": 34089,
+   "sha256": "ebede0e434e267db66c7604a093236957e4d2bce00d687e62714ce141349d6c8"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_rose_stufe2.glb",
+   "bytes": 240528,
+   "sha256": "1ea2be99c4e193c0ff5189166481a2dd69c34c06ee2b7b6fefc0d6d20545b191"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_rose_stufe2.png",
+   "bytes": 34071,
+   "sha256": "9faa9f55e48c4990f5e3efefd2402c25b1b7d4abe99c2f557d5ba8e8cc0b86da"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_gelb_stufe0.glb",
+   "bytes": 68604,
+   "sha256": "8b8941611c82474221f1f25316a25ee13ef845767dcdade9bb3cc100a304fb98"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_gelb_stufe0.png",
+   "bytes": 30438,
+   "sha256": "be5fc90722498c1502165cabfbf68072fc2c62bb833435f09e6efe7aed42fb9c"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_gelb_stufe1.glb",
+   "bytes": 95728,
+   "sha256": "a6b5118f25eab33084cb2b786aeb65619f1add887711762c00926d4d4255e757"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_gelb_stufe1.png",
+   "bytes": 34254,
+   "sha256": "3f34503cd78229093869f675af250caf95c1eb3cab6222271d1e520f8035f8db"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_gelb_stufe2.glb",
+   "bytes": 124960,
+   "sha256": "1771e501bbd90cf3fc6576061a3713b286e82451f082b55498a1d10f1e4597b0"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_gelb_stufe2.png",
+   "bytes": 35957,
+   "sha256": "ba54b2afd760f9087b0a18613e245d460d6ff2efd8e28295d7813a4c4cfd18f1"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_rot_stufe0.glb",
+   "bytes": 68604,
+   "sha256": "87e03026d8a0819aa510a38c8a97bd10479429cf13dd23eebd2d93a568b9e04e"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_rot_stufe0.png",
+   "bytes": 30542,
+   "sha256": "b33069137458052ca77561bc88ccf88fef9c7b98efc2e91a7761de7cd212b0c7"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_rot_stufe1.glb",
+   "bytes": 95724,
+   "sha256": "7fc3546c70205561f3e24b7067b980e881c57ef8ca2c0fecbec3f772fc358786"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_rot_stufe1.png",
+   "bytes": 34301,
+   "sha256": "2be8ae4f9311a6461c0cb411449f3fdb4a4223c49d0775f4eefd62e4d4ec90d1"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_rot_stufe2.glb",
+   "bytes": 124096,
+   "sha256": "40a06cefddd6684de9851624dd7593e56aa94e3944cc4d9f18181dadc0e811b7"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzbeet_tulpe_rot_stufe2.png",
+   "bytes": 36184,
+   "sha256": "d854b9ed34f8354f4bdee2381fe4864f50c0c67c61555b66d3dff69f39fddec3"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzgarten_layout.json",
+   "bytes": 7561,
+   "sha256": "17675a656de69f103df990df176f4e18d92b7e1dd6715bd3b5418323b68ffc14"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzgarten_rahmen.glb",
+   "bytes": 877372,
+   "sha256": "8ef6f2c5d292ad987e18b04e874d5fdbab39cabf10e3dcf0c14f0cf02d7b1d79"
+  },
+  {
+   "path": "city/claude/wachsen/juzgarten/juzgarten_rahmen.png",
+   "bytes": 67880,
+   "sha256": "6c3b7b51b6413714d3c7319141e80890effc206f30582ebad2d225bfd909fead"
+  },
+  {
+   "path": "city/claude/wasser/bach_1.glb",
+   "bytes": 236408,
+   "sha256": "852a67e18fd926980f893a461468994e0ecab8ee0409e0723b5b551af1dd75d4"
+  },
+  {
+   "path": "city/claude/wasser/bach_1.png",
+   "bytes": 72733,
+   "sha256": "31caaebe45450d4f90dcc4aa147bd4f5e467194cea6c383c93628a0f6f6d3e02"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask0.glb",
+   "bytes": 236408,
+   "sha256": "852a67e18fd926980f893a461468994e0ecab8ee0409e0723b5b551af1dd75d4"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask1.glb",
+   "bytes": 182992,
+   "sha256": "a15de7eb515d71e69aaac994df4cad93d47aa12b35789c8703711f76103f2a9e"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask10.glb",
+   "bytes": 218612,
+   "sha256": "92799b9244f4b21803fb8550005423f3fb2c6e7bec7002713742049e34af3604"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask11.glb",
+   "bytes": 225240,
+   "sha256": "612fc3dd4b26bf0584f5b377c3d26965f659e0fce347872dfaf01112712283a7"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask12.glb",
+   "bytes": 178292,
+   "sha256": "b46f1ea7966c2e6bae1b47169459aa4392fdce9cbb0d8c0182ec9a8dbae73ad5"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask13.glb",
+   "bytes": 220844,
+   "sha256": "805e46aa3133803c50690cc0571461caca312a7d0eda085565e227b4c6576d3b"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask14.glb",
+   "bytes": 224496,
+   "sha256": "577a34cccfcf5ba0a9477974af88827c791e4fdc2c5ca9adb20bd9aece92da7c"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask15.glb",
+   "bytes": 234892,
+   "sha256": "468933bb03078192c5ed922ae18d8e7e23342898d0477055834c08370ca2e461"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask2.glb",
+   "bytes": 194152,
+   "sha256": "e1c6eb2d75d50e750c42c1d7b59fd6a847be80ef7b308e44a72b53cef51059e8"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask3.glb",
+   "bytes": 190552,
+   "sha256": "e7a7393f79c18d1c3c5c0d60d130f546c04dadc9428a8fc663f9dcfab022c67e"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask4.glb",
+   "bytes": 188752,
+   "sha256": "3c7f4418d6ee7b888d23864e2b534adcbd789edc6531d21c1804bb33c0c51228"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask5.glb",
+   "bytes": 208408,
+   "sha256": "7868949d38f0f650c759a5eface05a55b18e0ae5ce908ea3660e9796fbac0a8c"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask6.glb",
+   "bytes": 183264,
+   "sha256": "9c9ee4688cf163190fdddd6f3de6fb30eea968b67e1ae4cac9cc3e1432b4999f"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask7.glb",
+   "bytes": 210984,
+   "sha256": "68da11645b8625f912a9af5d4b5f3b57df91589bf740c3a7bb98a587827de7fb"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask8.glb",
+   "bytes": 194732,
+   "sha256": "749a90acfd2ca1a685e215cc8c95b33972efa4bb8fcaa40814c822710b48fa2d"
+  },
+  {
+   "path": "city/claude/wasser/bach_mask9.glb",
+   "bytes": 185844,
+   "sha256": "9dbd9465c587c80447cec9b64b6897d9ec313386bcdd2c76829dbad8b5a52f48"
+  },
+  {
+   "path": "city/claude/wasser/kanal_1.glb",
+   "bytes": 261568,
+   "sha256": "2f66ce72d023075e77ec9707ee19c3ad23b58361a68ac30c57bb77cdfcac8547"
+  },
+  {
+   "path": "city/claude/wasser/kanal_1.png",
+   "bytes": 68391,
+   "sha256": "29762b3834bea838bec60c4fe53a8329e35fae10a7fc5b34426df0407e733460"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask0.glb",
+   "bytes": 261568,
+   "sha256": "2f66ce72d023075e77ec9707ee19c3ad23b58361a68ac30c57bb77cdfcac8547"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask1.glb",
+   "bytes": 294616,
+   "sha256": "66569102391fe8df53efce1e3e9444584cffd0f5da0b6583c23e3b2f6946f695"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask10.glb",
+   "bytes": 223008,
+   "sha256": "1f944006437e057e467bb3c02f855949917fa49cfda55ec4c772284321004a52"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask11.glb",
+   "bytes": 235436,
+   "sha256": "2ffabaf81dbb2c8fcd1085b14c772a8fe6abc2cc05e222c567f0dd1032f87579"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask12.glb",
+   "bytes": 230496,
+   "sha256": "08ee75164331fcced4ce8fd942c09bb96133733d73d333202f35f9f4e78be5bd"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask13.glb",
+   "bytes": 242920,
+   "sha256": "85f928523389fb6c813efaabe9b75cb24e6253e0a652186cc1f2ac7a65c3dbba"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask14.glb",
+   "bytes": 236368,
+   "sha256": "3bd538aba32bbf5c60efdd6d399686264cbba4af0a445d132adc8fdd7ff8e518"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask15.glb",
+   "bytes": 248812,
+   "sha256": "d7c29205103ad42cec3489708dd75f200cf6d482a64d25e098c74cdea9d2e0db"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask2.glb",
+   "bytes": 289936,
+   "sha256": "008f2ff2d1037af4bb546da701015b9c8415cf287e1ca614509f19fa126e4859"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask3.glb",
+   "bytes": 229556,
+   "sha256": "2ffde0056385329660235665dc82159c42353babeec5556b3ac9f1be1558fcb3"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask4.glb",
+   "bytes": 296488,
+   "sha256": "cf000473e8babbd30dcf3d850327ad08091146e8b04ca123d597d20bed4ce0b4"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask5.glb",
+   "bytes": 237044,
+   "sha256": "5a584e79abd49d2b685c5d3aea4aee33c9a80c466ce050f5f19166036c385412"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask6.glb",
+   "bytes": 232360,
+   "sha256": "606897a8dd4d7906f2fb4e393dac1be9af9a3aaf6653ebbe6efa263386a57402"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask7.glb",
+   "bytes": 242920,
+   "sha256": "d6995f614074a455f7b3241dace9c522d806efffa730b26569b618d3051cd19a"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask8.glb",
+   "bytes": 289936,
+   "sha256": "c523484323c6af0e4c375de07f0bc497f93816927082f77920a0975a206ce384"
+  },
+  {
+   "path": "city/claude/wasser/kanal_mask9.glb",
+   "bytes": 229556,
+   "sha256": "091121b3f7abc0ab74effbd67139380c306a763cfe779ff1b52abbf5258f3eb6"
+  },
+  {
+   "path": "city/clouds_3d.glb",
+   "bytes": 1466532,
+   "sha256": "fa46d6756a12dc06d85b7c5b6a30a93f40e44e8ea986db43034f25ff3d565650"
+  },
+  {
+   "path": "city/clouds_far.glb",
+   "bytes": 704004,
+   "sha256": "6ef9f6dd9100303c379a180c9f52ed01815d45217c2699ac9dd33ce2b3d0c44a"
+  },
+  {
+   "path": "city/clouds_mid.glb",
+   "bytes": 917128,
+   "sha256": "561af764b1dc9dea14ca351aba9ee8df3119257f75503e5d9793a76cb92af1d4"
+  },
+  {
+   "path": "city/clouds_near_16.glb",
+   "bytes": 1553324,
+   "sha256": "7a2b51ece57c6697c35f0562c83aaf579b9b21b6dc3edcda8b43abd1c7311f8f"
+  },
+  {
+   "path": "city/clouds_near_20.glb",
+   "bytes": 1640108,
+   "sha256": "a839e2344f0dfe0f4157a7423da59d544aca391c0c541bf1493b2c3dad103ff8"
+  },
+  {
+   "path": "city/clouds_near_24.glb",
+   "bytes": 1726888,
+   "sha256": "f20730e53d075256a176480849ff671f5150e500c38682ed8c9655e877903384"
+  },
+  {
+   "path": "city/clouds_near_28.glb",
+   "bytes": 1813676,
+   "sha256": "437aaabfa5c5a1a357eacb7418e25cfa707fd6b6273cae6c382b0546b226bd5e"
+  },
+  {
+   "path": "city/clouds_near_32.glb",
+   "bytes": 1900456,
+   "sha256": "acf49c65d91daa31e01e17613190a0fb43caa05a05966def44210b35186bcfca"
+  },
+  {
+   "path": "city/clouds_near_36.glb",
+   "bytes": 1987244,
+   "sha256": "408744e07a40453212bf8d7a942a8bc1693853bb85e5cf072f6f35a38895c4c5"
+  },
+  {
+   "path": "city/clouds_near_40.glb",
+   "bytes": 2074028,
+   "sha256": "f6b69f2a22deaae665ae1fb612f61fbb93b96f4abe5b81d84b3c7037225418a3"
+  },
+  {
+   "path": "city/clouds_near_44.glb",
+   "bytes": 2160812,
+   "sha256": "6586f13dc4a4ce13136932e8115992291b6b0431ff61cc4b3ee33707a2543aba"
+  },
+  {
+   "path": "city/clouds_near_48.glb",
+   "bytes": 2247596,
+   "sha256": "b575ee7d93149f9b6a71eec3529c0f8a9d6911f6bfa29689fa1b23b9f1ae5dc7"
+  },
+  {
+   "path": "city/cottage_1.glb",
+   "bytes": 393176,
+   "sha256": "6ea1616f6852e255558ae206466f1cc38652d40da7e613519552f5c75f1f5d42"
+  },
+  {
+   "path": "city/cottage_1.png",
+   "bytes": 84675,
+   "sha256": "d4f4a6c0b2683a39f387cc61ecf6fd94d12ce3905b3c0dbb18e6bcd909b8ed63"
+  },
+  {
+   "path": "city/cottage_2.glb",
+   "bytes": 403744,
+   "sha256": "4982efab8bf3b42e12bad6db19df7e8f0dd05a56e6f6f1ecac58e3bb7fd29a56"
+  },
+  {
+   "path": "city/cottage_2.png",
+   "bytes": 87564,
+   "sha256": "92b61a907fde1a4a7e04ab0d195b1eb94c2fb56d17cee4c118a1eec51e3ab353"
+  },
+  {
+   "path": "city/cottage_3.glb",
+   "bytes": 432732,
+   "sha256": "13ed06cd7775aef0fc40af5d0eafc6de26b3927fc60e74824f3b6b983490c18f"
+  },
+  {
+   "path": "city/cottage_3.png",
+   "bytes": 83251,
+   "sha256": "b7f9329cd1db50814170553574845d0a49cdbca3349f3c692c85221d19578963"
+  },
+  {
+   "path": "city/expansion_12.png",
+   "bytes": 104845,
+   "sha256": "e5637f8314b810a007b73faf7eb339c7233303da9a23732d589fefbce623d77c"
+  },
+  {
+   "path": "city/expansion_16.png",
+   "bytes": 106322,
+   "sha256": "cced485d61635178cc460a52e00a5a862bc82a930cdc117dbfa9a1644fc97894"
+  },
+  {
+   "path": "city/expansion_20.png",
+   "bytes": 107737,
+   "sha256": "65a78555496411cb3b8490983cbacb7b32159234bd2a2d715132256ab7c50065"
+  },
+  {
+   "path": "city/expansion_24.png",
+   "bytes": 107964,
+   "sha256": "8c9ef72926a32ebb563012b17565fcc71ee3bae9204ae74da09b590a92b9cf77"
+  },
+  {
+   "path": "city/expansion_28.png",
+   "bytes": 108780,
+   "sha256": "4f39dab83e9312365cdc7b2f2b243a25757365e073fb3380b61bcb31adc6b8e9"
+  },
+  {
+   "path": "city/expansion_32.png",
+   "bytes": 109495,
+   "sha256": "94d4b94d7f4ccbb7a09c7cebda777249a5351882a1b487b585b392e3590ff662"
+  },
+  {
+   "path": "city/expansion_36.png",
+   "bytes": 109987,
+   "sha256": "f7e8bb5d9c595cc9c9ba3dfe3f951ee572db7326e7833cf6afc77e4dab15fa77"
+  },
+  {
+   "path": "city/expansion_40.png",
+   "bytes": 110278,
+   "sha256": "b739fb45ceafe75a3712eae85b3bf3dba40835dac3d0f9bbda74e2732415b2a2"
+  },
+  {
+   "path": "city/expansion_44.png",
+   "bytes": 110398,
+   "sha256": "f656a7ad3eb1678ee9296e31e9a196789319ce802f4b7ba0b9cb20509e6471f3"
+  },
+  {
+   "path": "city/fantasy_mosque_1.glb",
+   "bytes": 5674612,
+   "sha256": "5f2b857d1b8da46c77e9812bda9bd48ecaaae5d7f57ee5d6f629422290b86ebb"
+  },
+  {
+   "path": "city/fantasy_mosque_1.png",
+   "bytes": 31895,
+   "sha256": "bb5c40c139f513cac5fd14d6f4bd94b0761e6967e67cea13a6a2601a2725adb5"
+  },
+  {
+   "path": "city/flowers_1.glb",
+   "bytes": 309004,
+   "sha256": "826ff4dc604d4b5ff4da6de7e3125f412390a30eea5c1724f772a2aa451ca4c2"
+  },
+  {
+   "path": "city/flowers_1.png",
+   "bytes": 38636,
+   "sha256": "82d6584bbd0ebcc91c4ee7e123c84cfe8e0bbea7637bf7b975cd65ff990fea91"
+  },
+  {
+   "path": "city/fountain_1.glb",
+   "bytes": 199040,
+   "sha256": "d057b01d320031d387f2361c4b08001fee9cb42ec98583e6826ccc1440010013"
+  },
+  {
+   "path": "city/fountain_1.png",
+   "bytes": 66506,
+   "sha256": "49c64314dbad8037a94dc0dcbbf079820993093de9f3f3ef724f5798ce134609"
+  },
+  {
+   "path": "city/full/alexandria_1.glb",
+   "bytes": 237392,
+   "sha256": "b4a8a67cdfbfb83611605d4ab954001760869c5451a985eeac71952f62559231"
+  },
+  {
+   "path": "city/full/ark_nuh_1.glb",
+   "bytes": 941264,
+   "sha256": "f6254021e8388498156b12c0efb77c238f559e3fbb42114bc4c836b91ce30aeb"
+  },
+  {
+   "path": "city/full/cheops_1.glb",
+   "bytes": 61216,
+   "sha256": "3dbab9132d700adf04eca3e29c06baf0049fd34eccb373a0bbdae26c2a418db2"
+  },
+  {
+   "path": "city/full/chephren_1.glb",
+   "bytes": 49376,
+   "sha256": "2734760b35f010695316b30ec967b1711750d139fca42ff1375e8bcff3653756"
+  },
+  {
+   "path": "city/full/fantasy_mosque_1.glb",
+   "bytes": 58123284,
+   "sha256": "cd3587688d72cd1d08a3cea006281b6f59853235c923be510a1ca91a4706260e"
+  },
+  {
+   "path": "city/full/hagia_sophia_detail_1.glb",
+   "bytes": 11636388,
+   "sha256": "99249811cb825889e23965d09eeeec04f64bebb1f6ebc864750131279b10a874"
+  },
+  {
+   "path": "city/full/hanging_gardens_1.glb",
+   "bytes": 334812,
+   "sha256": "9f7d7bdadbde82bdebe1b81dfb907d2064488fb8488c5ade5f085f47f95b422e"
+  },
+  {
+   "path": "city/full/jardin_eternel_1.glb",
+   "bytes": 61985076,
+   "sha256": "4c9b7fe37c82720feffbd17e1b0e498b367e9b7beda3f552dcf62cceea74f542"
+  },
+  {
+   "path": "city/full/mustafa_1.glb",
+   "bytes": 9662280,
+   "sha256": "79938b86ac49a7abb8f0fc09101d9ee8a6897cb7ece5fce2655ad90c94da089d"
+  },
+  {
+   "path": "city/full/mykerinos_1.glb",
+   "bytes": 74048,
+   "sha256": "5743ec0febf0cce8459ac9103808ae962d43f8fb128dcf279046613193da7df1"
+  },
+  {
+   "path": "city/full/observatory_1.glb",
+   "bytes": 163388,
+   "sha256": "35934718cec51c4daaa22e078fae49fdc1c7944950a168060187afc5e49653e1"
+  },
+  {
+   "path": "city/full/putra_1.glb",
+   "bytes": 5046228,
+   "sha256": "ec87a2dbc2300575c6926dcf335617e32b720ca3f8be146eff4c77ad81916618"
+  },
+  {
+   "path": "city/full/qarawiyyin_1.glb",
+   "bytes": 4874736,
+   "sha256": "d9badf793869243e1cb44d37398ec637ecd1ad9e08533e4636a1971ad008a97d"
+  },
+  {
+   "path": "city/full/registan_1.glb",
+   "bytes": 22614304,
+   "sha256": "1b5238de71364a3e12ecfb2d1a99713898f98b5d6a074bf096c4678aacffa116"
+  },
+  {
+   "path": "city/full/sahaba_1.glb",
+   "bytes": 13107884,
+   "sha256": "c3f62c131f7f8c8d96f10e274174a3e2220fe991a28a7308e37588a42804fb81"
+  },
+  {
+   "path": "city/full/selimiye_1.glb",
+   "bytes": 14535756,
+   "sha256": "f7397337bae114ba60af21c216b6326498b718dc08902fc1836c42f9a8e0f99e"
+  },
+  {
+   "path": "city/full/sphinx_1.glb",
+   "bytes": 54700,
+   "sha256": "4ad15bcd3d3f5db7f5942ddbff5d0935a5a522d8920281c9eba738c96deda171"
+  },
+  {
+   "path": "city/full/sultan_ahmed_detail_1.glb",
+   "bytes": 18931660,
+   "sha256": "ff3d2de2661193772434d56f7624c52b3cb03d0ddd270bcc194f6277813d0b77"
+  },
+  {
+   "path": "city/full/topkapi_1.glb",
+   "bytes": 60852316,
+   "sha256": "3fbb1318ec0d1f81fdf44dce336cc1318f6d359618cb9fba7f10fd7ea395e978"
+  },
+  {
+   "path": "city/garden_1.glb",
+   "bytes": 1871504,
+   "sha256": "50ec5df106d6d841b2f13769091a0ecbd5ed9e07e5449078202eaa3b3c07756d"
+  },
+  {
+   "path": "city/garden_1.png",
+   "bytes": 62150,
+   "sha256": "aae4a7360f12dcc6c0d7b26a9f464bf6b5a7074e9a5c737fad42a76da4043c5a"
+  },
+  {
+   "path": "city/grand_mosque_1.glb",
+   "bytes": 2325192,
+   "sha256": "7a4a97830ad7dee86aaf41428dd8b3bce6c33c162e78832f69af01a176e64eb5"
+  },
+  {
+   "path": "city/grand_mosque_1.png",
+   "bytes": 71947,
+   "sha256": "2386cea2d81aa8133680693f18bad6bd2a6a1fdf2edc38af02a9d65044c49c63"
+  },
+  {
+   "path": "city/grand_mosque_2.glb",
+   "bytes": 2447820,
+   "sha256": "76b9df83516706a9e91161de6af735735d10b73b31d1ec3eadfd6772b1b0edd1"
+  },
+  {
+   "path": "city/grand_mosque_2.png",
+   "bytes": 80286,
+   "sha256": "daa0fed0298d32db5737231218491215ddca21e547956d4ec4062e06b00ecee0"
+  },
+  {
+   "path": "city/grand_mosque_3.glb",
+   "bytes": 2742176,
+   "sha256": "ba599d8f64189237403dd359924dd4104886e26a18216001abbfc6b96162760d"
+  },
+  {
+   "path": "city/grand_mosque_3.png",
+   "bytes": 83062,
+   "sha256": "b2921268338cef80657143993443eaa79dfc788db14697f468aa8a3d9f9f26f6"
+  },
+  {
+   "path": "city/ground_12.glb",
+   "bytes": 193992,
+   "sha256": "076b9fdbc213bf987ef72a5ade427dcdc7ccab0745ed9b9a8dbfaa5d1422d97a"
+  },
+  {
+   "path": "city/ground_16.glb",
+   "bytes": 325732,
+   "sha256": "1c982ac360639225b83b9864e4ba0fb3151dab13ff0fb3ec999e79c810ffe35b"
+  },
+  {
+   "path": "city/ground_20.glb",
+   "bytes": 495080,
+   "sha256": "2f1f1d5b5e2e96be69a56842a6b98ac2f7bfc8d19684595f060ba82b5704cc00"
+  },
+  {
+   "path": "city/ground_24.glb",
+   "bytes": 702056,
+   "sha256": "71c99d907719594fd3d1aa1397d110df2ad42a026bf2f9595f70f9b36db935e7"
+  },
+  {
+   "path": "city/ground_28.glb",
+   "bytes": 946668,
+   "sha256": "8f9bdcbdd46b3ad7c3a2cb68d81ad6fcf531e0fa39b96415119803651527d7bd"
+  },
+  {
+   "path": "city/ground_32.glb",
+   "bytes": 1228924,
+   "sha256": "d111390888e904ab60c19fc12a3da64d8f35d56b89d1b2d61c235647befef667"
+  },
+  {
+   "path": "city/ground_36.glb",
+   "bytes": 1548796,
+   "sha256": "ef43de7e76a9dde522a72f77d0711a098b1d1d8ca8db95fca5e5207a2e27b7a3"
+  },
+  {
+   "path": "city/ground_40.glb",
+   "bytes": 1906304,
+   "sha256": "fb1666006b9b0d4c16551e7d5dedc6fe0ebc3898f00e026f7332db3ed66d0a9b"
+  },
+  {
+   "path": "city/ground_44.glb",
+   "bytes": 2301444,
+   "sha256": "2948b8280418fdf9f6fabe0b4b9c9a5e0b53bd266fdfa2a7a0d4ffacd621ce46"
+  },
+  {
+   "path": "city/ground_48.glb",
+   "bytes": 2734208,
+   "sha256": "72499ee72100ee5981260528983162306e57dd166b5bd77305e26a90680958a5"
+  },
+  {
+   "path": "city/hagia_sophia_1.glb",
+   "bytes": 241032,
+   "sha256": "692cb472c5c11bfba48e875e95c622d98de2f6b2e853d7b69df6a80cd31f9f16"
+  },
+  {
+   "path": "city/hagia_sophia_1.png",
+   "bytes": 29082,
+   "sha256": "fe116456e4e95d492a30c11bd44c3872dff7513da16091d36b84ffb72439ac11"
+  },
+  {
+   "path": "city/hagia_sophia_detail_1.glb",
+   "bytes": 4039800,
+   "sha256": "39774e0478c75895ad30ee26f3f84a2bf5fd7729f52d8b6ffadc60dcaad2af13"
+  },
+  {
+   "path": "city/hagia_sophia_detail_1.png",
+   "bytes": 28948,
+   "sha256": "d5467ed5ae8eccb4f4927bc9fb18e0c2956ad037400e29142fafbeef57b61219"
+  },
+  {
+   "path": "city/hanging_gardens_1.glb",
+   "bytes": 334804,
+   "sha256": "851bf9ec50364ad56b86f957b94f0648cc9d5c19850135d5f5be3629129db5c7"
+  },
+  {
+   "path": "city/hanging_gardens_1.png",
+   "bytes": 39792,
+   "sha256": "300f9b01be3911cd71d3c7d5814d82902f7aa4acd764e19625ff8c9cb8c69540"
+  },
+  {
+   "path": "city/house_1.glb",
+   "bytes": 552320,
+   "sha256": "a26aac18cc829f8e4264ed7fa523e7822a38bfc628543c092b2b23c29039a202"
+  },
+  {
+   "path": "city/house_1.png",
+   "bytes": 82567,
+   "sha256": "faab2fe0bc5b637b44de1690a276729072d7afbfe59784886a7a75d0142996fc"
+  },
+  {
+   "path": "city/house_2.glb",
+   "bytes": 979104,
+   "sha256": "95016f1c52f59738a8639f5e46df8943603e4cd6d7220ecb6ef3e71ffd9a2a16"
+  },
+  {
+   "path": "city/house_2.png",
+   "bytes": 87012,
+   "sha256": "e5da1c373fcc9efff2505992f26acab7e8fa085b9cc1d8247f9362975a081070"
+  },
+  {
+   "path": "city/house_3.glb",
+   "bytes": 1038240,
+   "sha256": "e5f67717d69a73db65813e0a59155fc3987d03a447bd0ff84e241d93b8212235"
+  },
+  {
+   "path": "city/house_3.png",
+   "bytes": 62063,
+   "sha256": "579528cf4ea4d7493a048da91ccd45b9064c40979dffc1a9693d43ce900a3867"
+  },
+  {
+   "path": "city/invalid.glb",
+   "bytes": 4612,
+   "sha256": "8f45c1ed67e593d08a2edb2cd1535a322da5a921046be608c59a10d43aa6f515"
+  },
+  {
+   "path": "city/jardin_eternel_1.glb",
+   "bytes": 4649120,
+   "sha256": "c87f0a50f62fcb04ca0d49f48ccf8dd81d67dc679a520a8b78daddaa490f9eb8"
+  },
+  {
+   "path": "city/jardin_eternel_1.png",
+   "bytes": 31631,
+   "sha256": "de44d86e9edd932e3f04edd93be2a695469d6f1225f820b0117751d2211ad0af"
+  },
+  {
+   "path": "city/library_1.glb",
+   "bytes": 852068,
+   "sha256": "9139c9916bd32ce6fd3800441823e1f97c7e7c0ec8a0c86a371c0b3f60a8a346"
+  },
+  {
+   "path": "city/library_1.png",
+   "bytes": 79093,
+   "sha256": "8dc6af55938a0ad4857bd50910395ca23443b46a016c01676dd237c730f5e847"
+  },
+  {
+   "path": "city/library_2.glb",
+   "bytes": 1091124,
+   "sha256": "63446fc4f3ab9db6323bd479edece4faf2b6b8939d93b41baf4a4288643b56b4"
+  },
+  {
+   "path": "city/library_2.png",
+   "bytes": 92052,
+   "sha256": "de8b84adfe25699f5b8fb63ef7f80857eb0c70dbdf74ffa69103c108d3503100"
+  },
+  {
+   "path": "city/library_3.glb",
+   "bytes": 1379248,
+   "sha256": "3a5498f8b465608fe2483c7e14cb74b828b802a21101f0ed16e3e326ca838239"
+  },
+  {
+   "path": "city/library_3.png",
+   "bytes": 98862,
+   "sha256": "1f707f3cdd7e35947ffd6e87d9263f69491717c72a031e6c58bcd8baf5f6f8a9"
+  },
+  {
+   "path": "city/lite/fantasy_mosque_1.glb",
+   "bytes": 5674612,
+   "sha256": "5f2b857d1b8da46c77e9812bda9bd48ecaaae5d7f57ee5d6f629422290b86ebb"
+  },
+  {
+   "path": "city/lite/garden_1.glb",
+   "bytes": 1871504,
+   "sha256": "50ec5df106d6d841b2f13769091a0ecbd5ed9e07e5449078202eaa3b3c07756d"
+  },
+  {
+   "path": "city/lite/jardin_eternel_1.glb",
+   "bytes": 4649120,
+   "sha256": "c87f0a50f62fcb04ca0d49f48ccf8dd81d67dc679a520a8b78daddaa490f9eb8"
+  },
+  {
+   "path": "city/lite/mustafa_1.glb",
+   "bytes": 4593120,
+   "sha256": "abdf235ea23b7a9ebd3f26778b64ac4a3d3201185fc22c76666489754fbd823d"
+  },
+  {
+   "path": "city/lite/registan_1.glb",
+   "bytes": 6321128,
+   "sha256": "60839fb03864e1fbd80fb726ee5e65869bbcf824a2b187a47d7b24fa1548d7ad"
+  },
+  {
+   "path": "city/lite/selimiye_1.glb",
+   "bytes": 5338280,
+   "sha256": "898a7fc526fd92f746951fc99d12a7e0fe207091329d233e30fe6990f1410a9e"
+  },
+  {
+   "path": "city/lite/topkapi_1.glb",
+   "bytes": 3885600,
+   "sha256": "e3d20b83e9d5aa8226acc85f84329bbecec0601b661275be1d9871e5b94729b0"
+  },
+  {
+   "path": "city/market_1.glb",
+   "bytes": 494248,
+   "sha256": "bd877e53a9949dd4f301638541ec0355dcab41671add08ebaaf9411f78bb987a"
+  },
+  {
+   "path": "city/market_1.png",
+   "bytes": 72903,
+   "sha256": "70147d9bb41f2bedcb409c7616e7f7e2dce0edaa3371ad2fddcc15f34516f762"
+  },
+  {
+   "path": "city/market_2.glb",
+   "bytes": 640740,
+   "sha256": "809f219a6b11297ec2f95200aa3c282fccb5258c2be9190d198e0173f28ee916"
+  },
+  {
+   "path": "city/market_2.png",
+   "bytes": 78961,
+   "sha256": "a085e7d32c4358ab0285aa94f042b9b8cc07d065704d7c9b9ff23c4567c02726"
+  },
+  {
+   "path": "city/market_3.glb",
+   "bytes": 710156,
+   "sha256": "ad832904a57851e4f04fd625163d5298f1c19826a7e9403845f315d49fc7c9a3"
+  },
+  {
+   "path": "city/market_3.png",
+   "bytes": 82919,
+   "sha256": "f0e779bbeea6460e05ce2c0cbe926d01570a078ea601cac0fb0637b3c31681c3"
+  },
+  {
+   "path": "city/mosque_1.glb",
+   "bytes": 1111188,
+   "sha256": "96dfbfaab8047ba5efec35a9b5d872533d6c1f7e475eeb63bf0e4c17d2ffd594"
+  },
+  {
+   "path": "city/mosque_1.png",
+   "bytes": 77623,
+   "sha256": "bf9cb3cb20fa13db84ae32b53ea5c6a32c723255c516a7435820df0c171849fc"
+  },
+  {
+   "path": "city/mosque_2.glb",
+   "bytes": 1172292,
+   "sha256": "b100714259f6058e861868141277b32cabdf55f1b48b8ba55ce3b974323b7a63"
+  },
+  {
+   "path": "city/mosque_2.png",
+   "bytes": 83788,
+   "sha256": "b4e96d0488d22754763a2464793354aa50ffff2ee10ede626a5604d67780f90b"
+  },
+  {
+   "path": "city/mosque_3.glb",
+   "bytes": 1288876,
+   "sha256": "e1a28703d4cdbb3aa927382cf239583364ebbf1021f84ec2db3987d74eb20f59"
+  },
+  {
+   "path": "city/mosque_3.png",
+   "bytes": 86329,
+   "sha256": "eb9e5654645082cdf25d2a4703f48a79f6d314ccdb3ccdac50582b3ca9c5cd2e"
+  },
+  {
+   "path": "city/mustafa_1.glb",
+   "bytes": 4593120,
+   "sha256": "abdf235ea23b7a9ebd3f26778b64ac4a3d3201185fc22c76666489754fbd823d"
+  },
+  {
+   "path": "city/mustafa_1.png",
+   "bytes": 33407,
+   "sha256": "724dd859016889639bc1cd26c5073791b3520ec6afd112e0ab9b4bf3d6d920be"
+  },
+  {
+   "path": "city/mykerinos_1.glb",
+   "bytes": 74012,
+   "sha256": "126da89b780dac8c54c7e65ded2131866ef3fb9fb63c8bd04bb0ebbada44d63d"
+  },
+  {
+   "path": "city/mykerinos_1.png",
+   "bytes": 32024,
+   "sha256": "fdd20abab7043143be29d78b20f9c3c8f57737338a63fecf17d1a27ac6d1779a"
+  },
+  {
+   "path": "city/observatory_1.glb",
+   "bytes": 163348,
+   "sha256": "e383323ca939ee5e3c47073e2f5a48a058c69188e1f2912dda0ff8d07d9db75b"
+  },
+  {
+   "path": "city/observatory_1.png",
+   "bytes": 34740,
+   "sha256": "82af3d095430f7b4d5c666e4931a356b35c0e1176fd7f82f45354c31bc62ce0f"
+  },
+  {
+   "path": "city/palm_1.glb",
+   "bytes": 260592,
+   "sha256": "25aebbd1b915f15a38d345dc1e46b932f3683c4d58dbdd9142fabe5efd080615"
+  },
+  {
+   "path": "city/palm_1.png",
+   "bytes": 54155,
+   "sha256": "c719e41373674f46806cc88f026ee6f9cdf85ca23435657d80c4df3f1620974e"
+  },
+  {
+   "path": "city/path_1.glb",
+   "bytes": 436136,
+   "sha256": "28a2127652093271bcc2e7737c7031eeb97119b1ee02e3918732a427b54e681f"
+  },
+  {
+   "path": "city/path_1.png",
+   "bytes": 65283,
+   "sha256": "8b8771415c8d168f819d81f8ac1634d24f68290a712a5abbe48dc48068fc318b"
+  },
+  {
+   "path": "city/path_mask0.glb",
+   "bytes": 436136,
+   "sha256": "2134245b5973efb9955dc16722d411f29be214e8c7c90108611174e614b9027b"
+  },
+  {
+   "path": "city/path_mask1.glb",
+   "bytes": 389532,
+   "sha256": "35fbb9a858d6d16b5dfdd75d88acafda31d268722f62fb8d2008e3baae34ef3e"
+  },
+  {
+   "path": "city/path_mask10.glb",
+   "bytes": 339028,
+   "sha256": "c905def32ae81171d857183a425a034faedfeca6510de6075f6b8bd1764a7816"
+  },
+  {
+   "path": "city/path_mask11.glb",
+   "bytes": 292428,
+   "sha256": "bd40ca814f29915eb1bc91e58e66f5364a83d866a5d77cf85769c0a0dc2d5790"
+  },
+  {
+   "path": "city/path_mask12.glb",
+   "bytes": 341076,
+   "sha256": "61b3f13a4be162dcff464697815dc92e3df140d655749543684e747d6b791dfd"
+  },
+  {
+   "path": "city/path_mask13.glb",
+   "bytes": 294476,
+   "sha256": "67ee750ad640b39331e3e0d208d958d8bccc52e6a02988a1bd6cb1ead7a4aaee"
+  },
+  {
+   "path": "city/path_mask14.glb",
+   "bytes": 292236,
+   "sha256": "002a76539586698659cb793124d21eca958a088770d0ecaa9ce90db28d93800c"
+  },
+  {
+   "path": "city/path_mask15.glb",
+   "bytes": 244680,
+   "sha256": "3ea2262809993bf191ed7bde28c3737bf9234849ae37df7f88483a92df1c7594"
+  },
+  {
+   "path": "city/path_mask2.glb",
+   "bytes": 387292,
+   "sha256": "8387091cea86499997f30f52de33535d902903929fa071774c319ae614491f94"
+  },
+  {
+   "path": "city/path_mask3.glb",
+   "bytes": 340692,
+   "sha256": "1a34912e836d944b47d5ed2cafbd2a6d530c940a3e09127a6fbe660ea3b22aa1"
+  },
+  {
+   "path": "city/path_mask4.glb",
+   "bytes": 389340,
+   "sha256": "3f1285d10be62e481025eb93bebaa2bad536b25f7eb71583a3d8e63e3573bf2e"
+  },
+  {
+   "path": "city/path_mask5.glb",
+   "bytes": 342740,
+   "sha256": "7093c502e95bdcc053fe98f006ab9d03d83c97e7799ec26fedc6c265d25b8b9c"
+  },
+  {
+   "path": "city/path_mask6.glb",
+   "bytes": 340500,
+   "sha256": "0ec3fdb61a748bedab5f6bd8882affedf77d8253020344136f5071b979065f06"
+  },
+  {
+   "path": "city/path_mask7.glb",
+   "bytes": 293900,
+   "sha256": "d79c71400c9623639f41cbf3da753c3c3941df8eca35e799ac0b177ecbcd1fe4"
+  },
+  {
+   "path": "city/path_mask8.glb",
+   "bytes": 387868,
+   "sha256": "129829a4e7ab876d54e1cc60c75146e845bfebd6142fb677b55bddd76633638c"
+  },
+  {
+   "path": "city/path_mask9.glb",
+   "bytes": 341268,
+   "sha256": "aed68955dddf4b13586277fe9e496ad47b3a643db36c6692dfb106c4f3f05fa2"
+  },
+  {
+   "path": "city/prayer_hall_1.glb",
+   "bytes": 644396,
+   "sha256": "cdd591c83d633c695ba3dc6682922c01606391195439942d92cb64a2f986f91c"
+  },
+  {
+   "path": "city/prayer_hall_1.png",
+   "bytes": 60652,
+   "sha256": "9adb8bc749415d7c9fbe99f8d13b6428aa57b9e08efe2184a355a722116551f0"
+  },
+  {
+   "path": "city/prayer_hall_2.glb",
+   "bytes": 1000688,
+   "sha256": "c21176f8404301831e1e5194093ec8fd609f4836653142035d1d4100e1af59f9"
+  },
+  {
+   "path": "city/prayer_hall_2.png",
+   "bytes": 62658,
+   "sha256": "d9499ea56330e940bfebee2813c482ec48673873fb5d2404015b895d283c78c1"
+  },
+  {
+   "path": "city/prayer_hall_3.glb",
+   "bytes": 1031788,
+   "sha256": "73452652dac5711c606cd17310ccc8f7c02516a430c9aa988cf9d0b23bd6a1a4"
+  },
+  {
+   "path": "city/prayer_hall_3.png",
+   "bytes": 65692,
+   "sha256": "31e5d886481334c77ceb82085f9d8daf4e320d3e60ec657ec7a426c7227f5f2d"
+  },
+  {
+   "path": "city/putra_1.glb",
+   "bytes": 3627872,
+   "sha256": "8b5afcd6d18a429a44e4e8c792fd25901c82aa17f23513bee7aaef361e9d9d09"
+  },
+  {
+   "path": "city/putra_1.png",
+   "bytes": 27096,
+   "sha256": "e539e5dc69f6bc61289047bbbf5a9976e840b10c9a129827b7ade6f1b6340ce6"
+  },
+  {
+   "path": "city/qarawiyyin_1.glb",
+   "bytes": 4301560,
+   "sha256": "95e9fe618a55a4d10d9d8fa72b9ef232848129b11724a06767687a776f907b3c"
+  },
+  {
+   "path": "city/qarawiyyin_1.png",
+   "bytes": 29819,
+   "sha256": "1b02d61f848be40bbb12d9a634800e84f40c192c604524fece83c4d85aa7e28f"
+  },
+  {
+   "path": "city/registan_1.glb",
+   "bytes": 6321128,
+   "sha256": "60839fb03864e1fbd80fb726ee5e65869bbcf824a2b187a47d7b24fa1548d7ad"
+  },
+  {
+   "path": "city/registan_1.png",
+   "bytes": 30697,
+   "sha256": "8a4f3b0f85ad1131a4d6ebe553934eb5a38ba18db0cb1cebab06e29340916c68"
+  },
+  {
+   "path": "city/resident_0.glb",
+   "bytes": 71612,
+   "sha256": "705bee78f37e2aacc0890e327867c335147f24430c2cc9208768fe45424ded57"
+  },
+  {
+   "path": "city/resident_1.glb",
+   "bytes": 71628,
+   "sha256": "40395a445d307a7d59c00807922eb6ff386f0201bbcd8acf5c915a9ccd6de136"
+  },
+  {
+   "path": "city/resident_2.glb",
+   "bytes": 71624,
+   "sha256": "cb076414c6c7fcd2f2d2b6a595010c562e68254f02cbad274640a45ddc46a75f"
+  },
+  {
+   "path": "city/river_1.glb",
+   "bytes": 214424,
+   "sha256": "43857a73dbdef6a72b3a792d011f27e2d861e16196e1a5e1f4de1a2380a49619"
+  },
+  {
+   "path": "city/river_1.png",
+   "bytes": 66574,
+   "sha256": "501dac6a93b109a35a965acd258b31a443dda4e9ea8b0c63d22f6fb6bdfbfce4"
+  },
+  {
+   "path": "city/river_mask0.glb",
+   "bytes": 214428,
+   "sha256": "72c45382f83eb9c5eb945588fc58bf718edce2a2964307dd02fd5c4aae75734c"
+  },
+  {
+   "path": "city/river_mask1.glb",
+   "bytes": 166076,
+   "sha256": "9297a70e7bff5b588ab5b84a9dac685758510727e850d22e993bb615265a6a74"
+  },
+  {
+   "path": "city/river_mask10.glb",
+   "bytes": 117720,
+   "sha256": "3c6acfd79ba01cec79f1ed2b164bb8c01bafec0e7c4802698da439127efd614f"
+  },
+  {
+   "path": "city/river_mask11.glb",
+   "bytes": 69372,
+   "sha256": "83aeb325e51202d618d3b672b27717d1295c785e3e2482d2b461e989d9cb2f86"
+  },
+  {
+   "path": "city/river_mask12.glb",
+   "bytes": 117720,
+   "sha256": "f13b8f49a89a2f07520532c30631ace98c904d8d85979f7bc39ee0d6ed17e139"
+  },
+  {
+   "path": "city/river_mask13.glb",
+   "bytes": 69372,
+   "sha256": "cfa020baa68aea2600b055556f27d0595e48f0779e931f051f82c2e852168d5b"
+  },
+  {
+   "path": "city/river_mask14.glb",
+   "bytes": 69376,
+   "sha256": "ca5033ffe0cbc4c864641eb1dae3c423e0e97eb89c97b45299529ed73ee22c82"
+  },
+  {
+   "path": "city/river_mask15.glb",
+   "bytes": 18716,
+   "sha256": "f8ad405afd7e1599ce55b90dbf7fadc01f3e2cc014cf7a3b437a373fcc97da48"
+  },
+  {
+   "path": "city/river_mask2.glb",
+   "bytes": 166076,
+   "sha256": "0e936f84217c94e26069a00e9948a316b383d3ff8b28763db7eb54fa0b322063"
+  },
+  {
+   "path": "city/river_mask3.glb",
+   "bytes": 117720,
+   "sha256": "4048e669ee01417a97a33568eacf52b5e31189aa2cf58ea3d1d67da60c22519c"
+  },
+  {
+   "path": "city/river_mask4.glb",
+   "bytes": 166076,
+   "sha256": "886bdf3e5a77f14eb10050d49a7bef2514494ac975e2e3a82a4e3897b94202a8"
+  },
+  {
+   "path": "city/river_mask5.glb",
+   "bytes": 117720,
+   "sha256": "fc3848e8d7bd1ebbd03f99dba0bcb9396ccf956057c98e5186fc59168bd20bee"
+  },
+  {
+   "path": "city/river_mask6.glb",
+   "bytes": 117720,
+   "sha256": "03f7ae5d2e3b713ebdad1f81aa5f9453005778fc821e82ad4b2e94ded7cfd513"
+  },
+  {
+   "path": "city/river_mask7.glb",
+   "bytes": 69376,
+   "sha256": "79abf31a7903a96050b9ac6c3d55e9351da5c17405a4232601eee7d3a0c2a1d0"
+  },
+  {
+   "path": "city/river_mask8.glb",
+   "bytes": 166076,
+   "sha256": "f317dc96fadb35795e840c5118c6cc592f050f2aa181e2866d3cf3c9b9f4b76e"
+  },
+  {
+   "path": "city/river_mask9.glb",
+   "bytes": 117724,
+   "sha256": "943bdee45fab74482510c5715cfd76cc3e54715273d91402581aa41e265bcee1"
+  },
+  {
+   "path": "city/road_1.glb",
+   "bytes": 166640,
+   "sha256": "4828e13651b0040878a6caafc33fc37960f7f1987b6145e7f19422d4f658e2de"
+  },
+  {
+   "path": "city/road_1.png",
+   "bytes": 53185,
+   "sha256": "6ba9530047d8d8cb1de8edc0f6c1a7f354967f5756b046142abfd23449fc7ddb"
+  },
+  {
+   "path": "city/road_mask0.glb",
+   "bytes": 166644,
+   "sha256": "aa55337a5bf5dc17124da57ce9daf3f26795afcf20210623d69a47a17164c679"
+  },
+  {
+   "path": "city/road_mask1.glb",
+   "bytes": 162564,
+   "sha256": "2ca00c7376d72d7c385f64fe48ae6146701d05a65d78286a9985831b75de37ec"
+  },
+  {
+   "path": "city/road_mask10.glb",
+   "bytes": 165964,
+   "sha256": "89feb2e314566e28d5fd199acd3aa91313bbb85e9db52b66f5817b250cdc6171"
+  },
+  {
+   "path": "city/road_mask11.glb",
+   "bytes": 145584,
+   "sha256": "cee74023b940f9b6f04641e65a82fffeeb3cd2634d398f00d499cdd6d9588270"
+  },
+  {
+   "path": "city/road_mask12.glb",
+   "bytes": 154036,
+   "sha256": "bd06aeebe429eaface6c5da0214b646c9d55c290239a067bbefc8dba814e239c"
+  },
+  {
+   "path": "city/road_mask13.glb",
+   "bytes": 145864,
+   "sha256": "18894efec11534fb3b1a479fc2a05086fba10342b2959e9c8f69b342545850e6"
+  },
+  {
+   "path": "city/road_mask14.glb",
+   "bytes": 145584,
+   "sha256": "67a8bb7d72687850f19fdd911d71c45173b40c1ba519f8cae2925282efd59145"
+  },
+  {
+   "path": "city/road_mask15.glb",
+   "bytes": 137412,
+   "sha256": "c897ce19d742f2b45d70735c928b63fcb7f38f99a763fd61758f19b53c0c3112"
+  },
+  {
+   "path": "city/road_mask2.glb",
+   "bytes": 162280,
+   "sha256": "6f3b814015a4ae9b3cd959f606c48f483550628c7f6ed4e87c42173f28fd6d25"
+  },
+  {
+   "path": "city/road_mask3.glb",
+   "bytes": 154116,
+   "sha256": "4c438019f3b5085b0e55b2486fb4e91f9bf4dc779386019a4f136105707cf198"
+  },
+  {
+   "path": "city/road_mask4.glb",
+   "bytes": 162560,
+   "sha256": "cfea3f770d9923ac1ba2934b54ee0797d6c802b60c2a500c2829141c79d7c26f"
+  },
+  {
+   "path": "city/road_mask5.glb",
+   "bytes": 166644,
+   "sha256": "2e0b61f297ac07ee643c44da541bd780c9481036f56d9aa1251d0787afbf34d1"
+  },
+  {
+   "path": "city/road_mask6.glb",
+   "bytes": 154116,
+   "sha256": "b3b970d9ffa42355d1c479965131581e6b7ae6b367bd84750089969d9cfa29a6"
+  },
+  {
+   "path": "city/road_mask7.glb",
+   "bytes": 145944,
+   "sha256": "99d055a2d21d9d52c1243f2f5f7fec5569e7b47003c8775a64ace066db687c19"
+  },
+  {
+   "path": "city/road_mask8.glb",
+   "bytes": 162204,
+   "sha256": "894deb7b82d3a8ce45e4974f225aee529b6f8e5da87615fc2c3f7d99b889b066"
+  },
+  {
+   "path": "city/road_mask9.glb",
+   "bytes": 154036,
+   "sha256": "b8321c79a8029af6067cb6141d66228403ee58ff9f0a89b9441be0ca955714bb"
+  },
+  {
+   "path": "city/sahaba_1.glb",
+   "bytes": 4586012,
+   "sha256": "603c21e2e1d30f6b32a7832ef8f00b7bb05f1a6d120d11e3662b133c1d0a9604"
+  },
+  {
+   "path": "city/sahaba_1.png",
+   "bytes": 31692,
+   "sha256": "42c7a8a23570593143345a967995d718267519a7688775f0d9c39ff22685048a"
+  },
+  {
+   "path": "city/samarra_1.glb",
+   "bytes": 7080640,
+   "sha256": "6cf43e23ad7364d65fe8d0956630817154b66a5143fe97dec8662b013938d1eb"
+  },
+  {
+   "path": "city/samarra_1.png",
+   "bytes": 629822,
+   "sha256": "4f2b6684bae7e16704c39e1c758c2f14319d327edd035475ef5fec9636ff8759"
+  },
+  {
+   "path": "city/school_1.glb",
+   "bytes": 721312,
+   "sha256": "a0811ca5410306dffdc17e1c8a9f99a483a94e9174b955f3795a1bd1bf8aad39"
+  },
+  {
+   "path": "city/school_1.png",
+   "bytes": 79677,
+   "sha256": "f9e149451c52986ea8d6933a4d54ad6eb932b3f5d2bacd333c5e18a91870adb2"
+  },
+  {
+   "path": "city/school_2.glb",
+   "bytes": 897788,
+   "sha256": "45f7afb15135d7229631290cb09d3d4d4efacbcb98419ce82c87532c48f37917"
+  },
+  {
+   "path": "city/school_2.png",
+   "bytes": 86022,
+   "sha256": "abf82562c7cabd26c15ee878bfb75ff629eb3ad22442a2f68d7b33bbfefe7909"
+  },
+  {
+   "path": "city/school_3.glb",
+   "bytes": 1270048,
+   "sha256": "7e8d7b3af62a7cb272efcb46fbb649f3e9127cc12b1e38154b701b516ccdfd36"
+  },
+  {
+   "path": "city/school_3.png",
+   "bytes": 88627,
+   "sha256": "3916eaa73b71a49c6b97827587c3588b32684a04fbef2d4eec783a8039964c98"
+  },
+  {
+   "path": "city/selected.glb",
+   "bytes": 4624,
+   "sha256": "1aea91efd77577f438f92faddaec4042892c0b9cfc0fc62334f9b700651e285d"
+  },
+  {
+   "path": "city/selimiye_1.glb",
+   "bytes": 5338280,
+   "sha256": "898a7fc526fd92f746951fc99d12a7e0fe207091329d233e30fe6990f1410a9e"
+  },
+  {
+   "path": "city/selimiye_1.png",
+   "bytes": 29604,
+   "sha256": "53d50581ca94e6b71d0ab37835051b47e5e5c69645e020d2e024c420f3b3c2d3"
+  },
+  {
+   "path": "city/small_mosque_1.glb",
+   "bytes": 832952,
+   "sha256": "0ca33245edaa84fa7435ce6afa0d6c4d1f97a2322a898dd6312a73a9c25d6e68"
+  },
+  {
+   "path": "city/small_mosque_1.png",
+   "bytes": 78481,
+   "sha256": "28a2f1212b4ed270d306eaecbee96235ad006aabd3140218cec27fa946eecff5"
+  },
+  {
+   "path": "city/small_mosque_2.glb",
+   "bytes": 1181924,
+   "sha256": "04b0840f6e2499614d07c97d7259a2a0fb6b8b72dd84d9f19b1c857528eb497e"
+  },
+  {
+   "path": "city/small_mosque_2.png",
+   "bytes": 84814,
+   "sha256": "8de12ebb9a6d91a15adf0c89cead292fb4615ff768649743d159588fa44d69d1"
+  },
+  {
+   "path": "city/small_mosque_3.glb",
+   "bytes": 1481044,
+   "sha256": "349b1d625b5961af8ec93aeb3a1b9b67742fdd0e4bfdaa38993152c97f8a6834"
+  },
+  {
+   "path": "city/small_mosque_3.png",
+   "bytes": 82738,
+   "sha256": "669c04c9d6dee52769ed8bdfc0ba469e36f1b29a35c600f5b3d54e31ea74e3c2"
+  },
+  {
+   "path": "city/sphinx_1.glb",
+   "bytes": 54648,
+   "sha256": "fc33e9ac343a21a38044a12e7f3b499bb82cf5786a36c4a37769ed4aef454214"
+  },
+  {
+   "path": "city/sphinx_1.png",
+   "bytes": 22978,
+   "sha256": "4d8e34b429e5f88e1917f76bebd1e2a2f33de77bcb79432fa5697d7130850467"
+  },
+  {
+   "path": "city/sulayman_palace_1.glb",
+   "bytes": 3571392,
+   "sha256": "183f07a46c9a560a9c2c6f01cb49e7ee6e0e9048dfd0a2ff0ba3924e185ac01f"
+  },
+  {
+   "path": "city/sulayman_palace_1.png",
+   "bytes": 879726,
+   "sha256": "cb8d38f882eec8af54f963920ca75a806117ec952ca25e91ec58a8bfde994802"
+  },
+  {
+   "path": "city/sultan_ahmed_1.glb",
+   "bytes": 625456,
+   "sha256": "b4d2a17dbee11b41164df948009016ec5ac63a4b9ae6a39f634fa3ff66e2da68"
+  },
+  {
+   "path": "city/sultan_ahmed_1.png",
+   "bytes": 35224,
+   "sha256": "414eb296be04e850421b213ac802c53983efaf09d9c73140dd02c6677c941801"
+  },
+  {
+   "path": "city/sultan_ahmed_detail_1.glb",
+   "bytes": 4143488,
+   "sha256": "ce05e7625f66500a896530ffe8ea6175b687fc1ebe2376f5e7c67a1a30a4af91"
+  },
+  {
+   "path": "city/sultan_ahmed_detail_1.png",
+   "bytes": 29347,
+   "sha256": "e3984b1395c9e1473053e3cfbd535143de97c455587791096e9022489b76cf78"
+  },
+  {
+   "path": "city/taj_mahal_1.glb",
+   "bytes": 7507540,
+   "sha256": "b1b90aa90dd5d4e218cef1e1b1f82497512b299fd36ff4e08397950e733fb883"
+  },
+  {
+   "path": "city/taj_mahal_1.png",
+   "bytes": 700549,
+   "sha256": "012e958c93dc461a9db65d35a63ab51db3ed023e6c44e0112ccde47db91cc352"
+  },
+  {
+   "path": "city/topkapi_1.glb",
+   "bytes": 3885600,
+   "sha256": "e3d20b83e9d5aa8226acc85f84329bbecec0601b661275be1d9871e5b94729b0"
+  },
+  {
+   "path": "city/topkapi_1.png",
+   "bytes": 23779,
+   "sha256": "378c9ce98239cf4fb8d3af456ef13d1ced333b8488d757e4b321a50345b78331"
+  },
+  {
+   "path": "city/townhouse_1.glb",
+   "bytes": 1250520,
+   "sha256": "1f0093bc2e3cb147f15e3a50b8df5fb5b038c5f2d926c17ceeb30b335044bcb0"
+  },
+  {
+   "path": "city/townhouse_1.png",
+   "bytes": 69142,
+   "sha256": "7bf5ce56a8489688c8b74bae5f3978b9e9c5b64bef0e9f1b8a88ca3585a5a5cf"
+  },
+  {
+   "path": "city/townhouse_2.glb",
+   "bytes": 1843432,
+   "sha256": "d1f15cded596a70d0f54da0f252b7aeae711b1197209cbb4f7caf76f582d9275"
+  },
+  {
+   "path": "city/townhouse_2.png",
+   "bytes": 81092,
+   "sha256": "24eba5488d67c3bd599119b845918acb591cc2cddad01a49592db1f142820592"
+  },
+  {
+   "path": "city/townhouse_3.glb",
+   "bytes": 1939600,
+   "sha256": "1909e840ed34b1eab097062f6329ab124128690fe16535d4013b70d07a3f7feb"
+  },
+  {
+   "path": "city/townhouse_3.png",
+   "bytes": 62373,
+   "sha256": "e09e32698669922fb05ae2267228731434bebddb73c066548a4f547c13046b11"
+  },
+  {
+   "path": "city/tree_1.glb",
+   "bytes": 449524,
+   "sha256": "2dcd271cca2f6a3f2ed18b04ea0cbbfccce5fd6d06181bae97efd594755f2d1d"
+  },
+  {
+   "path": "city/tree_1.png",
+   "bytes": 55056,
+   "sha256": "021c61c9b17816cd2b2bd4f2671661b5edf5021ce71290d621e5be6516964f37"
+  },
+  {
+   "path": "city/valid.glb",
+   "bytes": 4612,
+   "sha256": "45128f9e8d2ce1d79e07828fe2fbafeda410a5facd2ffa922460477b82536426"
+  },
+  {
+   "path": "city/villa_1.glb",
+   "bytes": 754920,
+   "sha256": "e92fa59de1bee0a74d2e337cc05f53124d7d94130f69a9d5ac39dfcdee916ead"
+  },
+  {
+   "path": "city/villa_1.png",
+   "bytes": 71787,
+   "sha256": "d0295fae2990e46005af339efbb7481fc779fd2979a045fe2b722fae6772a1b7"
+  },
+  {
+   "path": "city/villa_2.glb",
+   "bytes": 929056,
+   "sha256": "9374594436ababa5322d4c564028324c14b39167da98f4985a7a88bd3818d70b"
+  },
+  {
+   "path": "city/villa_2.png",
+   "bytes": 76640,
+   "sha256": "bce25deb6684caed48dda9704494eba36e623b53fd5830552f59fb0f8ab1bdb3"
+  },
+  {
+   "path": "city/villa_3.glb",
+   "bytes": 1128860,
+   "sha256": "d0510eced29ab2bd2e822a39409df2557a4fb4c65dbf832ba2b87e20235a3471"
+  },
+  {
+   "path": "city/villa_3.png",
+   "bytes": 83701,
+   "sha256": "6b342d8ffc1aa6bec943d824422107f7c17b5b3d9d5f62e101f2f68b6f42cfb1"
+  }
+ ]
+}
